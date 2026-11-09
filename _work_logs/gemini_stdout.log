@@ -1,8 +1,0 @@
-Warning: Basic terminal detected (TERM=dumb). Visual rendering will be limited. For the best experience, use a terminal emulator with truecolor support.
-YOLO mode is enabled. All tool calls will be automatically approved.
-YOLO mode is enabled. All tool calls will be automatically approved.
-Skill conflict detected: "roblox-vfx" from "/Users/hoggormino/.agents/skills/roblox-vfx/SKILL.md" is overriding the same skill from "/Users/hoggormino/.agents/skills/roblox-vfx-suite/SKILL.md".
-Skill conflict detected: "roblox-vfx" from "/Users/hoggormino/.agents/skills/roblox-vfx-suite/SKILL.md" is overriding the same skill from "/Users/hoggormino/.agents/skills/roblox-vfx/SKILL.md".
-Skill conflict detected: "roblox-vfx" from "/Users/hoggormino/.agents/skills/roblox-vfx/SKILL.md" is overriding the same skill from "/Users/hoggormino/.agents/skills/roblox-vfx-suite/SKILL.md".
-I am executing the python script to crawl HuggingFace and GitLab public APIs for `.cube` files, download them, verify their headers, and generate the report.
-Sub-job successfully executed. The Python crawler inspected 335 HuggingFace repositories and 62 GitLab projects, verifying and downloading any available `.cube` assets, and generated the comprehensive report at `/Users/hoggormino/projects/iPhone17_LUTs_Vault/_work_logs/gemini_findings.md`.
