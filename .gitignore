@@ -1,15 +1,9 @@
-# macOS & Editor
-.DS_Store
-._*
-__pycache__/
-
-# Ignored Working, Tooling, Clone & Staging Directories
 _tools/
+_work_logs/
 _incoming_staging/
 _repo_clones/
-_work_logs/
-
-# Ignored Archives & Temp Files
+4_GuVue_and_HK_Neon_Looks/
 *.zip
 *.zip.tmp
-opencode.json
+.DS_Store
+*.pyc
