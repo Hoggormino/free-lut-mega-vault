@@ -1,0 +1,562 @@
+[
+  {
+    "source": "Scavenger_03_GuVue_HK_Series_Matches_Rec709_33pt",
+    "file": "HK05_Match_Rec709_Fuji_3513DI_D60.cube",
+    "lut_3d_size": 33,
+    "title": "",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_04_Rec709_Film_Stocks_iPhone17_Air_33pt",
+    "file": "Rec709 Kodak 2383 D65.cube",
+    "lut_3d_size": 33,
+    "title": "",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_04_Rec709_Film_Stocks_iPhone17_Air_33pt",
+    "file": "eterna_cinema_composed.cube",
+    "lut_3d_size": 33,
+    "title": "Chromasmith composed - Eterna Cinema",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_A7III_Cine4_ProGamut_To_Rec709_Filmic.cube",
+    "lut_3d_size": 33,
+    "title": "Sony A7 III Cine4 / Pro color (unofficial approximation - great for live) Filmic",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_A7III_Cine4_ProGamut_To_Rec709_Standard.cube",
+    "lut_3d_size": 33,
+    "title": "Sony A7 III Cine4 / Pro color (unofficial approximation - great for live) Standard",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_A7III_SLog2_SGamut3Cine_To_Rec709_Filmic.cube",
+    "lut_3d_size": 33,
+    "title": "Sony A7 III S-Log2 / S-Gamut3.Cine (PP7 with Cine color mode) Filmic",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_A7III_SLog2_SGamut3Cine_To_Rec709_Standard.cube",
+    "lut_3d_size": 33,
+    "title": "Sony A7 III S-Log2 / S-Gamut3.Cine (PP7 with Cine color mode) Standard",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_A7III_SLog2_SGamut_To_Rec709_Filmic.cube",
+    "lut_3d_size": 33,
+    "title": "Sony A7 III S-Log2 / S-Gamut (PP7 - RECOMMENDED FOR A7 III) Filmic",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_A7III_SLog2_SGamut_To_Rec709_Standard.cube",
+    "lut_3d_size": 33,
+    "title": "Sony A7 III S-Log2 / S-Gamut (PP7 - RECOMMENDED FOR A7 III) Standard",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_A7III_SLog3_SGamut3Cine_To_Rec709_Filmic.cube",
+    "lut_3d_size": 33,
+    "title": "Sony A7 III S-Log3 / S-Gamut3.Cine (PP8 - Anti-banding curve) Filmic",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_A7III_SLog3_SGamut3Cine_To_Rec709_Standard.cube",
+    "lut_3d_size": 33,
+    "title": "Sony A7 III S-Log3 / S-Gamut3.Cine (PP8 - Anti-banding curve) Standard",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_A7IV_Cine4_ProGamut_To_Rec709_Filmic.cube",
+    "lut_3d_size": 33,
+    "title": "Sony Cine4 / Pro color (unofficial approximation, low contrast) Filmic",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_A7IV_Cine4_ProGamut_To_Rec709_Standard.cube",
+    "lut_3d_size": 33,
+    "title": "Sony Cine4 / Pro color (unofficial approximation, low contrast) Standard",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_A7IV_SLog3_SGamut3Cine_To_Rec709_Filmic.cube",
+    "lut_3d_size": 33,
+    "title": "Sony S-Log3 / S-Gamut3.Cine (PP8 recommended for A7 IV) Filmic",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_A7IV_SLog3_SGamut3Cine_To_Rec709_Standard.cube",
+    "lut_3d_size": 33,
+    "title": "Sony S-Log3 / S-Gamut3.Cine (PP8 recommended for A7 IV) Standard",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_A7IV_SLog3_SGamut3_To_Rec709_Filmic.cube",
+    "lut_3d_size": 33,
+    "title": "Sony S-Log3 / S-Gamut3 (PP9, wide gamut) Filmic",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_A7IV_SLog3_SGamut3_To_Rec709_Standard.cube",
+    "lut_3d_size": 33,
+    "title": "Sony S-Log3 / S-Gamut3 (PP9, wide gamut) Standard",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_FX_A7V_SLog3_SGamut3Cine_709_800.cube",
+    "lut_3d_size": 33,
+    "title": "Sony FX/A7V S-Log3 / S-Gamut3.Cine to 709(800%) (approximation, highlight preservation)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_FX_A7V_SLog3_SGamut3Cine_LC709TypeA.cube",
+    "lut_3d_size": 33,
+    "title": "Sony FX/A7V S-Log3 / S-Gamut3.Cine to LC-709TypeA (VENICE look approximation)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_FX_A7V_SLog3_SGamut3Cine_Standard.cube",
+    "lut_3d_size": 33,
+    "title": "Sony FX/A7V S-Log3 / S-Gamut3.Cine to Rec709 Standard",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Scavenger_06_Wave2_Calibrated_Film_Emulations_Rec709_33pt",
+    "file": "Sony_FX_A7V_SLog3_SGamut3Cine_s709.cube",
+    "lut_3d_size": 33,
+    "title": "Sony FX/A7V S-Log3 / S-Gamut3.Cine to s709 (s709 look approximation)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Verified",
+    "file": "37_x-m5-3d-lut-v100_F-Log2_XM5_FLog2_FGamut_to_ETERNA-BB_BT.709_33grid_V.1.00.cube",
+    "lut_3d_size": 33,
+    "title": "",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Verified",
+    "file": "37_x-m5-3d-lut-v100_F-Log2_XM5_FLog2_FGamut_to_ETERNA_BT.709_33grid_V.1.00.cube",
+    "lut_3d_size": 33,
+    "title": "",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Verified",
+    "file": "37_x-m5-3d-lut-v100_F-Log2_XM5_FLog2_FGamut_to_FLog2_BT.709_33grid_V.1.00.cube",
+    "lut_3d_size": 33,
+    "title": "",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Verified",
+    "file": "37_x-m5-3d-lut-v100_F-Log2_XM5_FLog2_FGamut_to_WDR_BT.709_33grid_V.1.00.cube",
+    "lut_3d_size": 33,
+    "title": "",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Verified",
+    "file": "37_x-m5-3d-lut-v100_F-Log_XM5_FLog_FGamut_to_ETERNA-BB_BT.709_33grid_V.1.00.cube",
+    "lut_3d_size": 33,
+    "title": "",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Verified",
+    "file": "37_x-m5-3d-lut-v100_F-Log_XM5_FLog_FGamut_to_ETERNA_BT.709_33grid_V.1.00.cube",
+    "lut_3d_size": 33,
+    "title": "",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Verified",
+    "file": "37_x-m5-3d-lut-v100_F-Log_XM5_FLog_FGamut_to_FLog_BT.709_33grid_V.1.00.cube",
+    "lut_3d_size": 33,
+    "title": "",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Verified",
+    "file": "37_x-m5-3d-lut-v100_F-Log_XM5_FLog_FGamut_to_WDR_BT.709_33grid_V.1.00.cube",
+    "lut_3d_size": 33,
+    "title": "",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "OlegNikitin_GDrive",
+    "file": "Alister_V-Look_V3_-1p00.cube",
+    "lut_3d_size": 33,
+    "title": "Alister V-Look V3_-1p00",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "OlegNikitin_GDrive",
+    "file": "Alister_V-Look_V3_-2p00.cube",
+    "lut_3d_size": 33,
+    "title": "Alister V-Look V3_-2p00",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "OlegNikitin_GDrive",
+    "file": "Alister_V-Look_V3_-3p00.cube",
+    "lut_3d_size": 33,
+    "title": "Alister V-Look V3_-3p00",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-ALEXA-LOG-C-V2-LTR.cube",
+    "lut_3d_size": 33,
+    "title": "Alexa Log-C Version 2 (Utility LOG to Rec.709)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-ALEXA-LOG-C-V3-LTR.cube",
+    "lut_3d_size": 33,
+    "title": "Alexa Log-C Version 3 (Utility LOG to Rec.709)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-ALEXA-LOG-C-V4-LTR.cube",
+    "lut_3d_size": 33,
+    "title": "Alexa Log-C Version 4 (Utility LOG to Rec.709)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-BMDFILM-BMPCC4K-V1-LTR.cube",
+    "lut_3d_size": 33,
+    "title": "BMDFilm BMPCC 4K V1 (Utility LOG to Rec.709)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-DJI-DLOG-V1-LTR.cube",
+    "lut_3d_size": 33,
+    "title": "DJI D-Log V1 (Utility LOG to Rec.709)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-DJI-DLOG-V2-LTR.cube",
+    "lut_3d_size": 33,
+    "title": "DJI D-Log V2 (Utility LOG to Rec.709)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "DJI_Phantom4_DLOG2Rec709.cube",
+    "lut_3d_size": 33,
+    "title": "",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "DJI_Phantom4_DLOG2sRGB.cube",
+    "lut_3d_size": 33,
+    "title": "",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "DJI_Phantom4_DLOG2sRGB_Improv.cube",
+    "lut_3d_size": 33,
+    "title": "",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "Mavic Pro D-Log to Rec709.cube",
+    "lut_3d_size": 33,
+    "title": "Generate by Resolve",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "Mavic Pro D-Log to sRGB Enhanced.cube",
+    "lut_3d_size": 33,
+    "title": "Generate by Resolve",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "DJI D-Log M to Rec709 (Beta).cube",
+    "lut_3d_size": 33,
+    "title": "DJI D-Log M to Rec.709 (Beta)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "FLog_FGamut_to_FLog_BT.709_33grid_V.1.00.cube",
+    "lut_3d_size": 33,
+    "title": "",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "FLog_FGamut_to_WDR_BT.709_33grid_V.1.00.cube",
+    "lut_3d_size": 33,
+    "title": "",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-9091-RTL.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 9091 (Utility Rec.709 to LOG)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-BMDFILM-URSA-46K-V1-LTR.cube",
+    "lut_3d_size": 33,
+    "title": "BMDFilm URSA 4.6K Version 1 (Utility LOG to Rec.709)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-BMDFILM-URSA-46K-V2-LTR.cube",
+    "lut_3d_size": 33,
+    "title": "BMDFilm URSA 4.6K Version 2 (Utility LOG to Rec.709)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-PANASONIC-V-LOG-HDR-LTR.cube",
+    "lut_3d_size": 33,
+    "title": "Panasonic V-Log HDR (Utility LOG to Rec.709)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-PANASONIC-V-LOG-V4-LTR.cube",
+    "lut_3d_size": 33,
+    "title": "Panasonic V-Log Version 4 (Utility LOG to Rec.709)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-PANASONIC-V-LOG-V5-LTR.cube",
+    "lut_3d_size": 33,
+    "title": "Panasonic V-Log Version 5 (Utility LOG to Rec.709)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-PANASONIC-V-LOG-V6-LTR.cube",
+    "lut_3d_size": 33,
+    "title": "Panasonic V-Log Version 6 (Utility LOG to Rec.709)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-PANASONIC-V-LOG-V7-LTR.cube",
+    "lut_3d_size": 33,
+    "title": "Panasonic V-Log Version 7 (Utility LOG to Rec.709)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-PANASONIC-V-LOG-V8-LTR.cube",
+    "lut_3d_size": 33,
+    "title": "Panasonic V-Log Version 8 (Utility LOG to Rec.709)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "U-PANASONIC-V-LOG-V9-LTR.cube",
+    "lut_3d_size": 33,
+    "title": "Panasonic V-Log Version 9 (Utility LOG to Rec.709)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "C-8120-LOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 8120 (LOG)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "C-9730-LOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 9730 (LOG)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "F-6800-LOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 6800 (LOG)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "F-8700-LOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 8700 (LOG)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "F-8700-V2-LOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 8700-V2 (LOG)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "H-9110-LOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 9110 (LOG)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "W-8370-LOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 8370 (LOG)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "X-6500-LOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 6500 (LOG)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "X-9400-LOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 9400 (LOG)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "C-8120-VLOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 8120 (V-Log L)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "C-9730-VLOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 9730 (V-Log L)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "F-6800-VLOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 6800 (V-Log L)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "F-8700-V2-VLOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 8700-V2 (V-Log L)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "F-8700-VLOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 8700 (V-Log L)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "H-9110-VLOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 9110 (V-Log L)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "W-8370-VLOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 8370 (V-Log L)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "X-6500-VLOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 6500 (V-Log L)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "X-9400-VLOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP 9400 (V-Log L)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "IWLTBAP Sedona - V-Log.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP Sedona (V-Log)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "IWLTBAP Humble - LOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP Humble (LOG)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "IWLTBAP Humble - V-Log.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP Humble (V-Log)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "IWLTBAP Aspen - V-Log.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP Aspen (V-Log)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "IWLTBAP Arapaho - LOG.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP Arapaho (LOG)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  },
+  {
+    "source": "Portal_Scraper",
+    "file": "IWLTBAP Arapaho - V-Log.cube",
+    "lut_3d_size": 33,
+    "title": "IWLTBAP Arapaho (V-Log)",
+    "reason": "Non-iPhone camera log curve (S-Log/F-Log/V-Log/Cineon/Gen5)"
+  }
+]

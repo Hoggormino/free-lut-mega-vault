@@ -1,6 +1,16 @@
-_tools/
+# macOS & Editor
+.DS_Store
+._*
+
+# Local Tooling Venv & Temporary Staging Buffers
+_tools/venv/
 _incoming_staging/
 _repo_clones/
-_work_logs/
-.DS_Store
-*.pyc
+_work_logs/portal_downloads/
+_work_logs/archived_zips/
+_work_logs/hf_gitlab_downloads/
+_work_logs/github_wave4_downloads/
+opencode.json
+
+# Redundant ZIP bundles (all verified .cube files are unpacked in folders 1-6)
+*.zip

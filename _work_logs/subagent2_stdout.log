@@ -1,0 +1,446 @@
+[0m
+> build · deepseek-v4-pro
+[0m→ [0mRead /Users/hoggormino/projects/iPhone17_LUTs_Vault/_work_logs/subjob2_github_code.md 
+> build · deepseek-v4-pro
+[0m$ [0mls -la /Users/hoggormino/projects/iPhone17_LUTs_Vault/_tools/ 2>&1; echo "---venv---"; ls -la /Users/hoggormino/projects/iPhone17_LUTs_Vault/_tools/venv/bin/python3 2>&1; echo "---staging---"; ls -la /Users/hoggormino/projects/iPhone17_LUTs_Vault/_incoming_staging/ 2>&1; echo "---worklogs---"; ls -la /Users/hoggormino/projects/iPhone17_LUTs_Vault/_work_logs/ 2>&1
+total 8
+drwxr-xr-x@  4 hoggormino  staff   128 Nov  9 17:22 .
+drwxr-xr-x@ 17 hoggormino  staff   544 Nov  9 17:23 ..
+-rw-r--r--@  1 hoggormino  staff  3378 Nov  9 17:22 stage_all_local_and_portals.py
+drwxr-xr-x@  7 hoggormino  staff   224 Nov  9 17:21 venv
+---venv---
+lrwxr-xr-x@ 1 hoggormino  staff  10 Nov  9 17:21 /Users/hoggormino/projects/iPhone17_LUTs_Vault/_tools/venv/bin/python3 -> python3.14
+---staging---
+total 0
+drwxr-xr-x@  3 hoggormino  staff   96 Nov  9 17:23 .
+drwxr-xr-x@ 17 hoggormino  staff  544 Nov  9 17:23 ..
+drwxr-xr-x@  6 hoggormino  staff  192 Nov  9 17:23 portal_65pt
+---worklogs---
+total 22152
+drwxr-xr-x@  2 hoggormino  staff       64 Nov  9 17:23 _staging_existing
+drwxr-xr-x@ 59 hoggormino  staff     1888 Nov  9 17:23 .
+drwxr-xr-x@ 17 hoggormino  staff      544 Nov  9 17:23 ..
+-rw-r--r--@  1 hoggormino  staff  2908085 Nov  9 17:05 Bransford_FreeLook_AppleLog.zip
+-rw-r--r--@  1 hoggormino  staff  2453988 Nov  9 17:05 Bransford_FreeLook_AppleLog2.zip
+-rw-------@  1 hoggormino  staff     1163 Sep 25 21:15 Bransford_README.txt
+-rw-r--r--@  1 hoggormino  staff  2643737 Nov  9 17:05 Bransford_TechLUT_AppleLog.zip
+-rw-r--r--@  1 hoggormino  staff  2423596 Nov  9 17:05 Bransford_TechLUT_AppleLog2.zip
+-rw-r--r--@  1 hoggormino  staff    31757 Nov  9 17:22 build_master_vault.py
+drwxr-xr-x@  6 hoggormino  staff      192 Nov  9 17:21 desktop_zips_extracted
+-rw-r--r--@  1 hoggormino  staff    28008 Nov  9 17:17 gemini_findings.md
+-rw-r--r--@  1 hoggormino  staff     1322 Nov  9 17:17 gemini_stdout.log
+drwxr-xr-x@  2 hoggormino  staff       64 Nov  9 17:23 github_wave4_downloads
+drwxr-xr-x@  2 hoggormino  staff       64 Nov  9 17:23 hf_gitlab_downloads
+-rw-r--r--@  1 hoggormino  staff     4510 Nov  9 17:21 opencode_findings.md
+-rw-r--r--@  1 hoggormino  staff       79 Nov  9 17:16 opencode_stdout.log
+drwxr-xr-x@  8 hoggormino  staff      256 Nov  9 17:23 portal_downloads
+-rw-r--r--@  1 hoggormino  staff     7010 Nov  9 17:16 portal_forum_audit.json
+-rw-r--r--@  1 hoggormino  staff     8100 Nov  9 17:05 previous_scrape.md
+-rw-r--r--@  1 hoggormino  staff    11808 Nov  9 17:16 run_gemini_hf_gitlab.py
+-rw-r--r--@  1 hoggormino  staff    11587 Nov  9 16:49 scavenger_airdrop_expansion_live.json
+-rw-r--r--@  1 hoggormino  staff    45756 Nov  9 13:57 scavenger_cube_candidates.json
+-rw-r--r--@  1 hoggormino  staff    12321 Nov  9 17:06 scavenger_dragnet_gemini_scout_report.md
+-rw-r--r--@  1 hoggormino  staff     5596 Nov  9 17:13 scavenger_dragnet_opencode_report.json
+-rw-r--r--@  1 hoggormino  staff     5614 Nov  9 17:13 scavenger_dragnet_opencode_report.md
+-rw-r--r--@  1 hoggormino  staff     3170 Nov  9 16:59 scavenger_dragnet_subjob1_gemini.md
+-rw-r--r--@  1 hoggormino  staff     3089 Nov  9 17:04 scavenger_dragnet_subjob1b_gemini.md
+-rw-r--r--@  1 hoggormino  staff     3738 Nov  9 16:59 scavenger_dragnet_subjob2_opencode.md
+-rw-r--r--@  1 hoggormino  staff     9364 Nov  9 16:52 scavenger_gemini_scout_findings.md
+-rw-r--r--@  1 hoggormino  staff     5112 Nov  9 13:44 scavenger_guvue_audit.md
+-rw-r--r--@  1 hoggormino  staff       18 Nov  9 13:42 scavenger_guvue_film_collection.json
+-rw-r--r--@  1 hoggormino  staff       18 Nov  9 13:42 scavenger_guvue_hk_series.json
+-rw-r--r--@  1 hoggormino  staff    37364 Nov  9 16:51 scavenger_MASTER_IPHONE17_LUTS.md
+-rw-r--r--@  1 hoggormino  staff      969 Nov  9 16:59 scavenger_master_plan.md
+-rw-r--r--@  1 hoggormino  staff   307641 Nov  9 16:46 scavenger_opencode_verified_luts.json
+-rw-r--r--@  1 hoggormino  staff    56609 Nov  9 16:50 scavenger_opencode_verified_luts.md
+-rw-r--r--@  1 hoggormino  staff       93 Nov  9 13:40 scavenger_opencode.json
+-rw-r--r--@  1 hoggormino  staff     4110 Nov  9 16:58 scavenger_subjob_gemini.md
+-rw-r--r--@  1 hoggormino  staff     4300 Nov  9 16:54 scavenger_subjob_opencode.md
+-rw-r--r--@  1 hoggormino  staff     2936 Nov  9 13:39 scavenger_subjob1_gemini_scout.md
+-rw-r--r--@  1 hoggormino  staff     1543 Nov  9 16:42 scavenger_subjob1_live_gemini_scout.md
+-rw-r--r--@  1 hoggormino  staff     1993 Nov  9 16:42 scavenger_subjob2_live_opencode_extractor.md
+-rw-r--r--@  1 hoggormino  staff     5428 Nov  9 13:39 scavenger_subjob2_opencode_extractor.md
+-rw-r--r--@  1 hoggormino  staff     9353 Nov  9 16:56 scavenger_wave2_gemini_findings.md
+-rw-r--r--@  1 hoggormino  staff     2315 Nov  9 16:55 scavenger_wave2_gemini_scout.md
+-rw-r--r--@  1 hoggormino  staff     3597 Nov  9 16:54 scavenger_wave2_opencode_extractor.md
+-rw-r--r--@  1 hoggormino  staff    77098 Nov  9 17:01 scavenger_wave2_verified_luts.json
+-rw-r--r--@  1 hoggormino  staff    15903 Nov  9 17:01 scavenger_wave2_verified_luts.md
+-rw-r--r--@  1 hoggormino  staff    38601 Nov  9 17:06 scavenger_wave3_verified_luts.json
+-rw-r--r--@  1 hoggormino  staff     4776 Nov  9 17:06 scavenger_wave3_verified_luts.md
+-rw-r--r--@  1 hoggormino  staff      388 Nov  9 17:23 stage_local.log
+-rw-r--r--@  1 hoggormino  staff     1111 Nov  9 17:23 subagent1_stdout.log
+-rw-r--r--@  1 hoggormino  staff      158 Nov  9 17:23 subagent2_stdout.log
+-rw-r--r--@  1 hoggormino  staff     2576 Nov  9 17:16 subjob_gemini.md
+-rw-r--r--@  1 hoggormino  staff     2244 Nov  9 17:16 subjob_opencode.md
+-rw-r--r--@  1 hoggormino  staff     2100 Nov  9 17:22 subjob1_hf_gitlab.md
+-rw-r--r--@  1 hoggormino  staff     2331 Nov  9 17:22 subjob2_github_code.md
+-rw-r--r--@  1 hoggormino  staff     1351 Nov  9 17:16 vault_scraper.log
+-rw-r--r--@  1 hoggormino  staff     5177 Nov  9 17:16 vault_scraper.py
+[0m$ [0mls -la /tmp/lut_scavenger/ 2>&1; echo "---clones---"; ls -la /tmp/lut_scavenger/clones 2>&1; echo "---clones_wave2---"; ls -la /tmp/lut_scavenger/clones_wave2 2>&1
+total 107184
+drwxr-xr-x@  4 hoggormino  wheel       128 Nov  9 17:06 __pycache__
+drwxr-xr-x@ 63 hoggormino  wheel      2016 Nov  9 17:13 .
+drwxrwxrwt  11 root        wheel       352 Nov  9 17:23 ..
+-rw-r--r--@  1 hoggormino  wheel     11587 Nov  9 16:49 airdrop_expansion_live.json
+-rw-r--r--@  1 hoggormino  wheel     10053 Nov  9 13:57 build_candidates.py
+drwxr-xr-x@ 27 hoggormino  wheel       864 Nov  9 13:41 clones
+drwxr-xr-x@ 19 hoggormino  wheel       608 Nov  9 17:01 clones_wave2
+-rw-r--r--@  1 hoggormino  wheel     45756 Nov  9 13:57 cube_candidates.json
+drwxr-xr-x@ 17 hoggormino  wheel       544 Nov  9 17:07 downloads
+-rw-r--r--@  1 hoggormino  wheel     12321 Nov  9 17:06 dragnet_gemini_scout_report.md
+-rw-r--r--@  1 hoggormino  wheel      5596 Nov  9 17:13 dragnet_opencode_report.json
+-rw-r--r--@  1 hoggormino  wheel      5614 Nov  9 17:13 dragnet_opencode_report.md
+-rw-r--r--@  1 hoggormino  wheel      3170 Nov  9 16:59 dragnet_subjob1_gemini.md
+-rw-r--r--@  1 hoggormino  wheel      3089 Nov  9 17:04 dragnet_subjob1b_gemini.md
+-rw-r--r--@  1 hoggormino  wheel      3738 Nov  9 16:59 dragnet_subjob2_opencode.md
+-rw-r--r--@  1 hoggormino  wheel      6594 Nov  9 16:56 execute_wave2.py
+-rw-r--r--@  1 hoggormino  wheel      9251 Nov  9 16:49 expand_airdrop_33pt.py
+-rw-r--r--@  1 hoggormino  wheel    344181 Nov  9 17:06 gdrive_folder_1EF-QU1gkJmt2pA3urQRYMmucsgYFJLbk.html
+-rw-r--r--@  1 hoggormino  wheel    405976 Nov  9 17:06 gdrive_folder_1pPrzZgAMvyXCmH0TL0zUIAwsVMYtUrbY.html
+-rw-r--r--@  1 hoggormino  wheel    438852 Nov  9 17:00 gdrive_folder.html
+-rw-r--r--@  1 hoggormino  wheel      9364 Nov  9 16:52 gemini_scout_findings.md
+-rw-r--r--@  1 hoggormino  wheel      5112 Nov  9 13:44 guvue_audit.md
+-rw-r--r--@  1 hoggormino  wheel        18 Nov  9 13:41 guvue_film_collection.html
+-rw-r--r--@  1 hoggormino  wheel        18 Nov  9 13:42 guvue_film_collection.json
+-rw-r--r--@  1 hoggormino  wheel        18 Nov  9 13:41 guvue_hk_series.html
+-rw-r--r--@  1 hoggormino  wheel        18 Nov  9 13:42 guvue_hk_series.json
+-rw-r--r--@  1 hoggormino  wheel       210 Nov  9 13:40 guvue_sitemap_agentic.xml
+-rw-r--r--@  1 hoggormino  wheel       322 Nov  9 13:40 guvue_sitemap_blogs.xml
+-rw-r--r--@  1 hoggormino  wheel       332 Nov  9 13:40 guvue_sitemap_collections.xml
+-rw-r--r--@  1 hoggormino  wheel       866 Nov  9 13:41 guvue_sitemap_index.xml
+-rw-r--r--@  1 hoggormino  wheel       338 Nov  9 13:40 guvue_sitemap_pages.xml
+-rw-r--r--@  1 hoggormino  wheel      1264 Nov  9 13:41 guvue_sitemap_products_full.xml
+-rw-r--r--@  1 hoggormino  wheel      1264 Nov  9 13:40 guvue_sitemap_products.xml
+-rw-r--r--@  1 hoggormino  wheel  51986350 Nov  9 17:12 IPHONE17_BLACKMAGIC_VERIFIED_33PT_LUTS.zip
+-rw-r--r--@  1 hoggormino  wheel     37364 Nov  9 16:51 MASTER_IPHONE17_LUTS.md
+-rw-r--r--@  1 hoggormino  wheel       969 Nov  9 16:59 master_plan.md
+-rw-r--r--@  1 hoggormino  wheel    307641 Nov  9 16:46 opencode_verified_luts.json
+-rw-r--r--@  1 hoggormino  wheel     56609 Nov  9 16:50 opencode_verified_luts.md
+-rw-r--r--@  1 hoggormino  wheel        93 Nov  9 13:40 opencode.json
+drwxr-xr-x@ 11 hoggormino  wheel       352 Nov  9 13:54 orchestrator_audit
+-rw-r--r--@  1 hoggormino  wheel     13497 Nov  9 17:12 orchestrator_final_pack.py
+drwxr-xr-x@  9 hoggormino  wheel       288 Nov  9 16:59 ready_to_airdrop_33pt
+-rw-r--r--@  1 hoggormino  wheel      7261 Nov  9 17:00 run_dragnet_subjob1.py
+drwxr-xr-x@  8 hoggormino  wheel       256 Nov  9 16:56 scrape
+drwxr-xr-x@ 10 hoggormino  wheel       320 Nov  9 16:55 scrape2
+-rw-r--r--@  1 hoggormino  wheel      4110 Nov  9 16:58 subjob_gemini.md
+-rw-r--r--@  1 hoggormino  wheel      4300 Nov  9 16:54 subjob_opencode.md
+-rw-r--r--@  1 hoggormino  wheel      2936 Nov  9 13:39 subjob1_gemini_scout.md
+-rw-r--r--@  1 hoggormino  wheel      1543 Nov  9 16:42 subjob1_live_gemini_scout.md
+-rw-r--r--@  1 hoggormino  wheel      1993 Nov  9 16:42 subjob2_live_opencode_extractor.md
+-rw-r--r--@  1 hoggormino  wheel      5428 Nov  9 13:39 subjob2_opencode_extractor.md
+-rw-r--r--@  1 hoggormino  wheel      8666 Nov  9 17:05 unfurl_fotorgear.py
+-rw-r--r--@  1 hoggormino  wheel     24133 Nov  9 13:58 verify_cubes.py
+-rw-r--r--@  1 hoggormino  wheel      9353 Nov  9 16:56 wave2_gemini_findings.md
+-rw-r--r--@  1 hoggormino  wheel      2315 Nov  9 16:55 wave2_gemini_scout.md
+-rw-r--r--@  1 hoggormino  wheel      3597 Nov  9 16:54 wave2_opencode_extractor.md
+-rw-r--r--@  1 hoggormino  wheel     13999 Nov  9 17:01 wave2_scan.py
+-rw-r--r--@  1 hoggormino  wheel     77098 Nov  9 17:01 wave2_verified_luts.json
+-rw-r--r--@  1 hoggormino  wheel     15903 Nov  9 17:01 wave2_verified_luts.md
+-rw-r--r--@  1 hoggormino  wheel     21042 Nov  9 17:05 wave3_scan.py
+-rw-r--r--@  1 hoggormino  wheel     38601 Nov  9 17:06 wave3_verified_luts.json
+-rw-r--r--@  1 hoggormino  wheel      4776 Nov  9 17:06 wave3_verified_luts.md
+-rw-r--r--@  1 hoggormino  wheel      7288 Nov  9 16:49 zip_pack.log
+---clones---
+total 0
+drwxr-xr-x@ 27 hoggormino  wheel   864 Nov  9 13:41 .
+drwxr-xr-x@ 63 hoggormino  wheel  2016 Nov  9 17:13 ..
+drwxr-xr-x@ 15 hoggormino  wheel   480 Nov  9 13:40 830prod_LUTviewer
+drwxr-xr-x@ 13 hoggormino  wheel   416 Nov  9 13:40 Animesh-Does-Code_HDR-to-SDR-LUTs_YouTube
+drwxr-xr-x@  9 hoggormino  wheel   288 Nov  9 13:40 bWFuanVzYWth_AgX
+drwxr-xr-x@  7 hoggormino  wheel   224 Nov  9 13:41 dddfault_NativeEnhancer-FE
+drwxr-xr-x@ 23 hoggormino  wheel   736 Nov  9 13:40 DocM88_Free-Lut-Pack
+drwxr-xr-x@ 18 hoggormino  wheel   576 Nov  9 13:40 EaryChow_AgX_LUT_Gen
+drwxr-xr-x@ 13 hoggormino  wheel   416 Nov  9 13:40 EtonMu_deep-analog
+drwxr-xr-x@ 29 hoggormino  wheel   928 Nov  9 13:40 imnz730_LUTs
+drwxr-xr-x@ 15 hoggormino  wheel   480 Nov  9 13:40 JanLohse_spectral_film_lut
+drwxr-xr-x@ 27 hoggormino  wheel   864 Nov  9 13:41 jfmayeda_FilmFeel
+drwxr-xr-x@  5 hoggormino  wheel   160 Nov  9 13:40 Joey-LJ_LUTS
+drwxr-xr-x@  6 hoggormino  wheel   192 Nov  9 13:40 just-a-child_2383LUT
+drwxr-xr-x@  8 hoggormino  wheel   256 Nov  9 13:41 MokshC_Film-Emulation-LUTs
+drwxr-xr-x@ 20 hoggormino  wheel   640 Nov  9 13:40 moritzsalla_LogGrade-macOS
+drwxr-xr-x@ 12 hoggormino  wheel   384 Nov  9 13:40 n9Mtq4_HDR2SDR
+drwxr-xr-x@ 12 hoggormino  wheel   384 Nov  9 13:42 ns144_3D-LUT
+drwxr-xr-x@ 13 hoggormino  wheel   416 Nov  9 13:41 QuagKhai003_ReinaLook
+drwxr-xr-x@  8 hoggormino  wheel   256 Nov  9 13:40 raycalrui_raycal-luts
+drwxr-xr-x@  5 hoggormino  wheel   160 Nov  9 13:40 Royat07_S-Log3-to-Apple-Log
+drwxr-xr-x@  6 hoggormino  wheel   192 Nov  9 13:40 scernst13_HaldCLUT-Cube-Files
+drwxr-xr-x@ 10 hoggormino  wheel   320 Nov  9 13:41 slaycamera_luts
+drwxr-xr-x@ 13 hoggormino  wheel   416 Nov  9 13:40 sohan-shingade_fujiLUT
+drwxr-xr-x@ 51 hoggormino  wheel  1632 Nov  9 13:43 TareqAmeer_Chroma-App
+drwxr-xr-x@  5 hoggormino  wheel   160 Nov  9 13:40 wikanopiyani_Blackmagic-Camera-App-Cinematic-LUT-Pack-20-Film-Style-Looks
+drwxr-xr-x@ 13 hoggormino  wheel   416 Nov  9 13:40 YahiaAngelo_Film-Camera-IOS
+---clones_wave2---
+total 0
+drwxr-xr-x@ 19 hoggormino  wheel   608 Nov  9 17:01 .
+drwxr-xr-x@ 63 hoggormino  wheel  2016 Nov  9 17:13 ..
+drwxr-xr-x@ 13 hoggormino  wheel   416 Nov  9 16:56 cameraluts
+drwxr-xr-x@ 11 hoggormino  wheel   352 Nov  9 16:56 cinema-lut
+drwxr-xr-x@  9 hoggormino  wheel   288 Nov  9 17:01 CineSnap
+drwxr-xr-x@ 15 hoggormino  wheel   480 Nov  9 17:01 Cube-LUT-Loader
+drwxr-xr-x@ 13 hoggormino  wheel   416 Nov  9 16:56 derby
+drwxr-xr-x@  4 hoggormino  wheel   128 Nov  9 16:56 dust
+drwxr-xr-x@ 15 hoggormino  wheel   480 Nov  9 16:56 ffgrade
+drwxr-xr-x@ 15 hoggormino  wheel   480 Nov  9 16:56 filmic
+drwxr-xr-x@ 17 hoggormino  wheel   544 Nov  9 16:56 fuji-recipe
+drwxr-xr-x@ 13 hoggormino  wheel   416 Nov  9 17:01 fujiLUT
+drwxr-xr-x@ 15 hoggormino  wheel   480 Nov  9 16:56 glassmeter
+drwxr-xr-x@ 17 hoggormino  wheel   544 Nov  9 16:56 loglook
+drwxr-xr-x@ 17 hoggormino  wheel   544 Nov  9 16:56 lumix
+drwxr-xr-x@  8 hoggormino  wheel   256 Nov  9 17:01 lutty-ios
+drwxr-xr-x@ 17 hoggormino  wheel   544 Nov  9 16:56 mfilm
+drwxr-xr-x@ 16 hoggormino  wheel   512 Nov  9 16:56 moderates
+drwxr-xr-x@ 18 hoggormino  wheel   576 Nov  9 17:01 vibe-engine
+[0m$ [0mgh auth status 2>&1 | head -20; echo "---GH VERSION---"; gh --version 2>&1 | head -3
+github.com
+  ✓ Logged in to github.com account Hoggormino (keyring)
+  - Active account: true
+  - Git operations protocol: https
+  - Token: gho_************************************
+  - Token scopes: 'gist', 'read:org', 'repo', 'workflow'
+---GH VERSION---
+gh version 2.101.0 (2026-09-15)
+https://github.com/cli/cli/releases/tag/v2.101.0
+> build · deepseek-v4-pro
+[0m$ [0mfor d in cameraluts cinema-lut lutty-ios vibe-engine; do echo "=== $d ==="; grep -m1 url /tmp/lut_scavenger/clones_wave2/$d/.git/config 2>/dev/null || echo "(no config)"; done
+=== cameraluts ===
+	url = https://github.com/cgardev/cameraluts
+=== cinema-lut ===
+	url = https://github.com/userle3252352/the-cinema-lut
+=== lutty-ios ===
+	url = https://github.com/apyfz/lutty-ios
+=== vibe-engine ===
+	url = https://github.com/TanaTTV/vibe-engine
+[0m$ [0mfor d in 830prod_LUTviewer Animesh-Does-Code_HDR-to-SDR-LUTs_YouTube just-a-child_2383LUT jfmayeda_FilmFeel bWFuanVzYWth_AgX; do echo "=== $d ==="; grep -m1 url /tmp/lut_scavenger/clones/$d/.git/config 2>/dev/null || echo "(no config)"; done
+=== 830prod_LUTviewer ===
+	url = https://github.com/830prod/LUTviewer.git
+=== Animesh-Does-Code_HDR-to-SDR-LUTs_YouTube ===
+	url = https://github.com/Animesh-Does-Code/HDR-to-SDR-LUTs_YouTube.git
+=== just-a-child_2383LUT ===
+	url = https://github.com/just-a-child/2383LUT.git
+=== jfmayeda_FilmFeel ===
+	url = https://github.com/jfmayeda/FilmFeel.git
+=== bWFuanVzYWth_AgX ===
+	url = https://github.com/bWFuanVzYWth/AgX.git
+> build · deepseek-v4-pro
+[0m$ [0m/Users/hoggormino/projects/iPhone17_LUTs_Vault/_tools/venv/bin/python3 -c "import requests; print('requests', requests.__version__)" 2>&1; /Users/hoggormino/projects/iPhone17_LUTs_Vault/_tools/venv/bin/python3 --version 2>&1
+requests 2.34.2
+Python 3.14.9
+[0m$ [0mgh api "search/code?q=Apple%20Log%20extension%3Acube&per_page=3" 2>&1 | head -c 2000
+{"total_count":4,"incomplete_results":false,"items":[{"name":"AppleLogToLin-v1.0.cube","path":"AppleLogToLin-v1.0.cube","sha":"cb2124222a9f866a262e11200fae4a86968adf22","url":"https://api.github.com/repositories/929005394/contents/AppleLogToLin-v1.0.cube?ref=7aad7a6caa3fa3f1bbe10f9d11a148986978663b","git_url":"https://api.github.com/repositories/929005394/git/blobs/cb2124222a9f866a262e11200fae4a86968adf22","html_url":"https://github.com/btilmon/apple-log2linear/blob/7aad7a6caa3fa3f1bbe10f9d11a148986978663b/AppleLogToLin-v1.0.cube","repository":{"id":929005394,"node_id":"MDEwOlJlcG9zaXRvcnk5MjkwMDUzOTQ=","name":"apple-log2linear","full_name":"btilmon/apple-log2linear","owner":{"id":33883833,"node_id":"MDQ6VXNlcjMzODgzODMz","login":"btilmon","avatar_url":"https://avatars.githubusercontent.com/u/33883833?v=4","gravatar_id":"","url":"https://api.github.com/users/btilmon","html_url":"https://github.com/btilmon","type":"User","site_admin":false,"followers_url":"https://api.github.com/users/btilmon/followers","following_url":"https://api.github.com/users/btilmon/following{/other_user}","gists_url":"https://api.github.com/users/btilmon/gists{/gist_id}","starred_url":"https://api.github.com/users/btilmon/starred{/owner}{/repo}","subscriptions_url":"https://api.github.com/users/btilmon/subscriptions","organizations_url":"https://api.github.com/users/btilmon/orgs","repos_url":"https://api.github.com/users/btilmon/repos","events_url":"https://api.github.com/users/btilmon/events{/privacy}","received_events_url":"https://api.github.com/users/btilmon/received_events"},"private":false,"html_url":"https://github.com/btilmon/apple-log2linear","description":"Convert iPhone ProRes Log video to sRGB and linear space images","fork":false,"url":"https://api.github.com/repos/btilmon/apple-log2linear","archive_url":"https://api.github.com/repos/btilmon/apple-log2linear/{archive_format}{/ref}","assignees_url":"https://api.github.com/repos/btilmon/apple-log2linear/assignees{/user}","blobs_url
+> build · deepseek-v4-pro
+[0m← [0mWrite /Users/hoggormino/projects/iPhone17_LUTs_Vault/_tools/harvest_gh_code.py
+Created file successfully: /Users/hoggormino/projects/iPhone17_LUTs_Vault/_tools/harvest_gh_code.py
+> build · deepseek-v4-pro
+[0m$ [0m/Users/hoggormino/projects/iPhone17_LUTs_Vault/_tools/venv/bin/python3 /Users/hoggormino/projects/iPhone17_LUTs_Vault/_tools/harvest_gh_code.py
+Already-cloned repos (case-normalized): 41
+[search] 'Apple Log extension:cube'
+    total_count=4 returned=4
+[search] 'AppleLog2 extension:cube'
+    total_count=0 returned=0
+[search] 'Kodak 2383 extension:cube'
+    total_count=791 returned=30
+[search] 'Fujifilm 3513 extension:cube'
+    total_count=4 returned=4
+[search] 'CineStill 800T extension:cube'
+    total_count=1 returned=1
+[search] 'Halation extension:cube'
+    total_count=3 returned=3
+[search] 'OpenDRT extension:cube'
+    total_count=0 returned=0
+[search] 'AgX extension:cube'
+    total_count=2 returned=2
+[search] 'Portra 400 extension:cube'
+    total_count=340 returned=30
+[search] 'Blackmagic Rec709 extension:cube'
+    total_count=0 returned=0
+[tree] ray-cast/lut
+    0 .cube blob(s) in tree
+[tree] just-a-child/2383LUT
+    0 .cube blob(s) in tree
+[tree] lemonadesaltbagel/GR4-LUTSmith
+    1 .cube blob(s) in tree
+[tree] Sooodx/live-photo-tool
+    6 .cube blob(s) in tree
+[tree] jfmayeda/FilmFeel
+    4 .cube blob(s) in tree
+[tree] o-l-l-i/ComfyUI-OlmLUT
+    13 .cube blob(s) in tree
+[tree] michelerenzullo/LUTify
+    0 .cube blob(s) in tree
+[tree] jedypod/open-display-transform
+    0 .cube blob(s) in tree
+Total candidate .cube items: 97
+  OK  btilmon/apple-log2linear :: AppleLogToLin-v1.0.cube  LUT_3D_SIZE=None
+  OK  btilmon/apple-log2linear :: appleLog2Linear/AppleLogToLin-v1.0.cube  LUT_3D_SIZE=None
+  OK  YvigUnderscore/ReMap :: LUTS/AppleLogToLin-v1.0.cube  LUT_3D_SIZE=None
+  OK  AlexanderSilvaB/cube :: stdlib/asio/ip/tcp/contentTypes.cube  LUT_3D_SIZE=None
+  OK  BillyDu-TJ/NexFilm :: assets/luts/Kodak 2383.cube  LUT_3D_SIZE=None
+  OK  Mattatorito/Farm_content :: assets/luts/Kodak_2383.cube  LUT_3D_SIZE=None
+  OK  YahiaAngelo/Film-Luts :: luts/print/kodak_2383_constlmap.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/print/kodak_2383_cuspclip.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/print/kodak_2383_constlclip.cube  LUT_3D_SIZE=13
+  OK  mirarr-app/Noisem :: assets/cubes/kodak/kodak_2383_constlmap.cube  LUT_3D_SIZE=13
+  OK  mirarr-app/Noisem :: assets/cubes/kodak/kodak_2383_cuspclip.cube  LUT_3D_SIZE=13
+  OK  mirarr-app/Noisem :: assets/cubes/kodak/kodak_2383_constlclip.cube  LUT_3D_SIZE=13
+  OK  davidkodar/klipp :: assets/luts/film-print/kodak_2383_constlmap.cube  LUT_3D_SIZE=13
+  OK  davidkodar/klipp :: assets/luts/film-print/kodak_2383_cuspclip.cube  LUT_3D_SIZE=13
+  OK  davidkodar/klipp :: assets/luts/film-print/kodak_2383_constlclip.cube  LUT_3D_SIZE=13
+  OK  elianiva/lutra :: packages/frontend/public/luts/luts/print/kodak_2383_constlmap.cube  LUT_3D_SIZE=13
+  OK  elianiva/lutra :: packages/frontend/public/luts/luts/print/kodak_2383_cuspclip.cube  LUT_3D_SIZE=13
+  OK  elianiva/lutra :: packages/frontend/public/luts/luts/print/kodak_2383_constlclip.cube  LUT_3D_SIZE=13
+  OK  todydanielm3/Kodachrome_LUT :: luts/kodak_2383_constlmap.cube  LUT_3D_SIZE=13
+  OK  todydanielm3/Kodachrome_LUT :: luts/kodak_2383_cuspclip.cube  LUT_3D_SIZE=13
+  OK  todydanielm3/Kodachrome_LUT :: luts/kodak_2383_constlclip.cube  LUT_3D_SIZE=13
+  SKIP (already cloned): YahiaAngelo/Film-Camera-IOS :: Film Camera/Resources/Films/kodak_2383_cuspclip.cube
+  OK  valentin-gosselin/photo-souvenir :: luts/cinema-kodak-2383.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/FilmCamera-Android :: app/src/main/assets/films/kodak_2383_cuspclip.cube  LUT_3D_SIZE=13
+  OK  Nacholmo/ModernShare :: mods/lut/looks/filmluts/print/kodak_2383_constlmap.cube  LUT_3D_SIZE=13
+  OK  ishanmall/GalleryBox :: app/src/main/assets/luts/print/kodak_2383_constlmap.cube  LUT_3D_SIZE=13
+  OK  ishanmall/GalleryBox :: app/src/main/assets/luts/print/kodak_2383_cuspclip.cube  LUT_3D_SIZE=13
+  OK  Navadeep-Reddy/CookingFlow :: assets/luts/kodak_2383_constlclip.cube  LUT_3D_SIZE=13
+  OK  ishanmall/GalleryBox :: app/src/main/assets/luts/print/kodak_2383_constlclip.cube  LUT_3D_SIZE=13
+  OK  Aristyo2006/LELEMETER :: assets/luts/print/kodak_2383_constlmap.cube  LUT_3D_SIZE=13
+  OK  Aristyo2006/LELEMETER :: assets/luts/print/kodak_2383_cuspclip.cube  LUT_3D_SIZE=13
+  OK  Aristyo2006/LELEMETER :: assets/luts/print/kodak_2383_constlclip.cube  LUT_3D_SIZE=13
+  OK  plenuen-cpu/Claude_01 :: app/src/main/assets/luts/Film LUTs/print/kodak_2383_constlmap.cube  LUT_3D_SIZE=13
+  OK  plenuen-cpu/Claude_01 :: app/src/main/assets/luts/Film LUTs/print/kodak_2383_cuspclip.cube  LUT_3D_SIZE=13
+  OK  LiorMoment/darkslide-gr :: film_curves/preview/pro400h.cube  LUT_3D_SIZE=17
+  OK  LiorMoment/darkslide-gr :: film_curves/preview/xtra400_portraendura.cube  LUT_3D_SIZE=17
+  OK  yoyonel-lab/suckless-odin :: assets/luts/fuji_eternal.cube  LUT_3D_SIZE=16
+  OK  yoyonel/suckless-ogl :: assets/luts/fuji_eternal.cube  LUT_3D_SIZE=16
+  OK  prashanttanwar124/lifeinrolls :: storage/app/public/cameras/cinestill-800t.cube  LUT_3D_SIZE=2
+  OK  Curiosity-Corp/catalog :: roles/developer_workstation/files/streamstack/src/streamstack/data/presets/luts/cinestill.cube  LUT_3D_SIZE=17
+  OK  guillermo-rebolledo/dye :: Tests/FilmEngineTests/Fixtures/ExportBytes/portra-400-displayP3-9.cube  LUT_3D_SIZE=9
+  OK  priikone/aces-looks :: ACES2Looks/ACEScct_LUT/T-AgX_Tone.cube  LUT_3D_SIZE=None
+  OK  alaxiaoke/ISP_related_code-and-document :: 3dlut/3dlut_lib/face - 副本.cube  LUT_3D_SIZE=17
+  OK  prashanttanwar124/lifeinrolls :: storage/app/public/cameras/portra-400.cube  LUT_3D_SIZE=2
+  OK  YahiaAngelo/Film-Luts :: luts/negative_new/kodak_portra_400.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/negative_new/kodak_portra_400_+.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/negative_new/kodak_portra_400_-.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/negative_old/kodak_portra_400_nc.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/negative_new/kodak_portra_400_++.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/negative_old/kodak_portra_400_vc.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/negative_old/kodak_portra_400_uc.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/negative_old/kodak_portra_400_vc_+.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/negative_old/kodak_portra_400_nc_+.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/negative_old/kodak_portra_400_nc_-.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/negative_old/kodak_portra_400_vc_-.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/negative_old/kodak_portra_400_uc_-.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/negative_old/kodak_portra_400_uc_+.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/negative_old/kodak_portra_400_nc_++.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/negative_old/kodak_portra_400_vc_++.cube  LUT_3D_SIZE=13
+  OK  YahiaAngelo/Film-Luts :: luts/negative_old/kodak_portra_400_uc_++.cube  LUT_3D_SIZE=13
+  OK  atultiwari000/VintageCam :: core/profiles/src/main/assets/luts/kodak_portra_400.cube  LUT_3D_SIZE=13
+  OK  dancancer/RawLab :: Shared/BundledLooks/RawLab_look_portra_400_sRGB_v1.cube  LUT_3D_SIZE=13
+  OK  LiorMoment/darkslide-gr :: film_curves/preview/portra400.cube  LUT_3D_SIZE=17
+  OK  mirarr-app/Noisem :: assets/cubes/kodak/kodak_portra_400.cube  LUT_3D_SIZE=13
+  OK  mirarr-app/Noisem :: assets/cubes/kodak/kodak_portra_400_+.cube  LUT_3D_SIZE=13
+  OK  mirarr-app/Noisem :: assets/cubes/kodak/kodak_portra_400_-.cube  LUT_3D_SIZE=13
+  OK  mirarr-app/Noisem :: assets/cubes/kodak/kodak_portra_400_nc.cube  LUT_3D_SIZE=13
+  OK  mirarr-app/Noisem :: assets/cubes/kodak/kodak_portra_400_++.cube  LUT_3D_SIZE=13
+  OK  mirarr-app/Noisem :: assets/cubes/kodak/kodak_portra_400_vc.cube  LUT_3D_SIZE=13
+  OK  mirarr-app/Noisem :: assets/cubes/kodak/kodak_portra_400_uc.cube  LUT_3D_SIZE=13
+  OK  mirarr-app/Noisem :: assets/cubes/kodak/kodak_portra_400_vc_+.cube  LUT_3D_SIZE=13
+  OK  mirarr-app/Noisem :: assets/cubes/kodak/kodak_portra_400_nc_+.cube  LUT_3D_SIZE=13
+  OK  mirarr-app/Noisem :: assets/cubes/kodak/kodak_portra_400_nc_-.cube  LUT_3D_SIZE=13
+  OK  lemonadesaltbagel/GR4-LUTSmith :: examples/film-1d.cube  LUT_3D_SIZE=None
+  OK  Sooodx/live-photo-tool :: backend/luts/LogC_to_Rec709.cube  LUT_3D_SIZE=33
+  OK  Sooodx/live-photo-tool :: backend/luts/SLog2_to_S709.cube  LUT_3D_SIZE=33
+  OK  Sooodx/live-photo-tool :: backend/luts/SLog3_to_S709.cube  LUT_3D_SIZE=33
+  OK  Sooodx/live-photo-tool :: backend/luts/VLog_to_V709.cube  LUT_3D_SIZE=33
+  OK  Sooodx/live-photo-tool :: backend/luts/VLog_to_V709_Cool.cube  LUT_3D_SIZE=33
+  OK  Sooodx/live-photo-tool :: backend/luts/VLog_to_V709_Warm.cube  LUT_3D_SIZE=33
+  SKIP (already cloned): jfmayeda/FilmFeel :: test-assets/Apple_Log_2_LUTs/AppleLog2ToRec709-v1.0.cube
+  SKIP (already cloned): jfmayeda/FilmFeel :: test-assets/Apple_Log_2_LUTs/AppleLogToLin-v1.0.cube
+  SKIP (already cloned): jfmayeda/FilmFeel :: test-assets/__MACOSX/Apple_Log_2_LUTs/._AppleLog2ToRec709-v1.0.cube
+  SKIP (already cloned): jfmayeda/FilmFeel :: test-assets/__MACOSX/Apple_Log_2_LUTs/._AppleLogToLin-v1.0.cube
+  OK  o-l-l-i/ComfyUI-OlmLUT :: luts/blue_inversion_curve_fun.cube  LUT_3D_SIZE=17
+  OK  o-l-l-i/ComfyUI-OlmLUT :: luts/bubblegum_dream.cube  LUT_3D_SIZE=17
+  OK  o-l-l-i/ComfyUI-OlmLUT :: luts/curve_bump.cube  LUT_3D_SIZE=17
+  OK  o-l-l-i/ComfyUI-OlmLUT :: luts/dynamic_saturated.cube  LUT_3D_SIZE=17
+  OK  o-l-l-i/ComfyUI-OlmLUT :: luts/high_contrast.cube  LUT_3D_SIZE=17
+  OK  o-l-l-i/ComfyUI-OlmLUT :: luts/life_is_a_lemon.cube  LUT_3D_SIZE=17
+  OK  o-l-l-i/ComfyUI-OlmLUT :: luts/only_blue.cube  LUT_3D_SIZE=17
+  OK  o-l-l-i/ComfyUI-OlmLUT :: luts/only_green.cube  LUT_3D_SIZE=17
+  OK  o-l-l-i/ComfyUI-OlmLUT :: luts/only_red.cube  LUT_3D_SIZE=17
+  OK  o-l-l-i/ComfyUI-OlmLUT :: luts/retro_vibes.cube  LUT_3D_SIZE=64
+  OK  o-l-l-i/ComfyUI-OlmLUT :: luts/stylized_monochrome.cube  LUT_3D_SIZE=64
+  OK  o-l-l-i/ComfyUI-OlmLUT :: luts/toxic_sludge.cube  LUT_3D_SIZE=64
+  OK  o-l-l-i/ComfyUI-OlmLUT :: luts/vibrant_candy.cube  LUT_3D_SIZE=64
+
+Done. downloaded=92 failed=0 skipped_cloned=5 duplicate=0
+Provenance -> /Users/hoggormino/projects/iPhone17_LUTs_Vault/_work_logs/gh_code_provenance.json
+Report     -> /Users/hoggormino/projects/iPhone17_LUTs_Vault/_work_logs/subagent2_opencode_report.md
+> build · deepseek-v4-pro
+[0m→ [0mRead /Users/hoggormino/projects/iPhone17_LUTs_Vault/_work_logs/subagent2_opencode_report.md 
+[0m$ [0mecho "=== staging count ==="; ls -1 /Users/hoggormino/projects/iPhone17_LUTs_Vault/_incoming_staging/github_code_search/ | wc -l; echo "=== sample ==="; ls -1 /Users/hoggormino/projects/iPhone17_LUTs_Vault/_incoming_staging/github_code_search/ | head -8; echo "=== provenance size ==="; /Users/hoggormino/projects/iPhone17_LUTs_Vault/_tools/venv/bin/python3 -c "import json; d=json.load(open('/Users/hoggormino/projects/iPhone17_LUTs_Vault/_work_logs/gh_code_provenance.json')); print('records', len(d)); print('downloaded', sum(1 for r in d if r.get('status')=='downloaded')); print('failed', sum(1 for r in d if r.get('status')=='failed'))"
+=== staging count ===
+      92
+=== sample ===
+alaxiaoke__ISP_related_code-and-document__face_-___.cube
+AlexanderSilvaB__cube__contentTypes.cube
+Aristyo2006__LELEMETER__kodak_2383_constlclip.cube
+Aristyo2006__LELEMETER__kodak_2383_constlmap.cube
+Aristyo2006__LELEMETER__kodak_2383_cuspclip.cube
+atultiwari000__VintageCam__kodak_portra_400.cube
+BillyDu-TJ__NexFilm__Kodak_2383.cube
+btilmon__apple-log2linear__AppleLogToLin-v1.0_2.cube
+=== provenance size ===
+records 92
+downloaded 92
+failed 0
+> build · deepseek-v4-pro
+[0m$ [0mfor d in dust cinema-lut moderates glassmeter; do echo "=== wave2/$d ==="; grep -A1 'remote "origin"' /tmp/lut_scavenger/clones_wave2/$d/.git/config 2>/dev/null | cat -A | head -3; done; echo "==== clones dir checks ===="; for d in EtonMu_deep-analog JanLohse_spectral_film_lut Royat07_S-Log3-to-Apple-Log; do echo "=== clones/$d ==="; grep -m1 'url =' /tmp/lut_scavenger/clones/$d/.git/config 2>/dev/null; done
+=== wave2/dust ===
+cat: illegal option -- A
+usage: cat [-belnstuv] [file ...]
+=== wave2/cinema-lut ===
+cat: illegal option -- A
+usage: cat [-belnstuv] [file ...]
+=== wave2/moderates ===
+cat: illegal option -- A
+usage: cat [-belnstuv] [file ...]
+=== wave2/glassmeter ===
+cat: illegal option -- A
+usage: cat [-belnstuv] [file ...]
+==== clones dir checks ====
+=== clones/EtonMu_deep-analog ===
+	url = https://github.com/EtonMu/deep-analog.git
+=== clones/JanLohse_spectral_film_lut ===
+	url = https://github.com/JanLohse/spectral_film_lut.git
+=== clones/Royat07_S-Log3-to-Apple-Log ===
+	url = https://github.com/Royat07/S-Log3-to-Apple-Log.git
+> build · deepseek-v4-pro
+[0m$ [0mfor d in dust cinema-lut moderates glassmeter; do echo "=== wave2/$d ==="; sed -n 'l' /tmp/lut_scavenger/clones_wave2/$d/.git/config 2>/dev/null | grep -i 'url'; done
+=== wave2/dust ===
+\turl = https://github.com/userle3252352/dust$
+=== wave2/cinema-lut ===
+\turl = https://github.com/userle3252352/the-cinema-lut$
+=== wave2/moderates ===
+\turl = https://github.com/Moder4te/moderates-film-simulato\
+=== wave2/glassmeter ===
+\turl = https://github.com/TrondW/glassmeter-film-looks$
+> build · deepseek-v4-pro
+I found a bug worth fixing before finalizing: `.rstrip(".git")` in my repo-name parser strips trailing characters from the set `{., g, i, t}`, which silently truncated several cloned-repo names (e.g. `deep-analog` → `deep-analo`, `dust` → `dus`). It didn't cause wrong downloads this run, but it makes the report's skip list inaccurate. Let me fix it and regenerate.
+[0m← [0mEdit /Users/hoggormino/projects/iPhone17_LUTs_Vault/_tools/harvest_gh_code.py
+Index: /Users/hoggormino/projects/iPhone17_LUTs_Vault/_tools/harvest_gh_code.py
+===================================================================
+--- /Users/hoggormino/projects/iPhone17_LUTs_Vault/_tools/harvest_gh_code.py
++++ /Users/hoggormino/projects/iPhone17_LUTs_Vault/_tools/harvest_gh_code.py
+@@ -126,9 +126,13 @@
+                     text, re.M,
+                 )
+                 if m:
+                     owner = m.group(1)
+-                    repo = m.group(2).rstrip(".git").rstrip("/")
++                    # group(2) is already clean: the optional (?:\.git)? group
++                    # consumes the ".git" suffix when present. Do NOT use
++                    # .rstrip(".git") here — it strips trailing chars from the
++                    # set {., g, i, t}, corrupting names like "deep-analog".
++                    repo = m.group(2)
+                     full = f"{owner}/{repo}"
+             if full:
+                 names.add(full.lower())
+             else:
+

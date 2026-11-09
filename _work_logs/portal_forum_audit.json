@@ -1,0 +1,183 @@
+[
+  {
+    "name": "IWLTBAP_Free",
+    "url": "https://lut.iwltbap.com/",
+    "http_status": 200,
+    "classification": "PUBLIC_DIRECT_ASSETS",
+    "direct_assets": [
+      "https://luts.iwltbap.com/free/4K_Film_Grain_(Free)_by_IWLTBAP.zip",
+      "https://luts.iwltbap.com/free/LUTs_Color_Grading_Pack_(Free)_by_IWLTBAP.zip"
+    ],
+    "cloud_links": [],
+    "downloaded": [
+      {
+        "file": "/Users/hoggormino/projects/iPhone17_LUTs_Vault/_work_logs/portal_downloads/IWLTBAP_Free__4K_Film_Grain_(Free)_by_IWLTBAP.zip",
+        "bytes": 595592880
+      },
+      {
+        "file": "/Users/hoggormino/projects/iPhone17_LUTs_Vault/_work_logs/portal_downloads/IWLTBAP_Free__LUTs_Color_Grading_Pack_(Free)_by_IWLTBAP.zip",
+        "bytes": 61151496
+      }
+    ]
+  },
+  {
+    "name": "FreshLUTs",
+    "url": "https://freshluts.com/",
+    "http_status": 200,
+    "classification": "LOGIN_EMAIL_OR_CART_GATED",
+    "direct_assets": [],
+    "cloud_links": [],
+    "downloaded": []
+  },
+  {
+    "name": "GroundControl_Free",
+    "url": "https://groundcontrolcolor.com/collections/free-color-grading-luts",
+    "http_status": 404,
+    "classification": "HTTP_404_GATED_OR_BLOCKED",
+    "direct_assets": [],
+    "cloud_links": [],
+    "downloaded": []
+  },
+  {
+    "name": "PresetPro_Free",
+    "url": "https://www.presetpro.com/free-luts/",
+    "http_status": 200,
+    "classification": "LOGIN_EMAIL_OR_CART_GATED",
+    "direct_assets": [],
+    "cloud_links": [],
+    "downloaded": []
+  },
+  {
+    "name": "FixThePhoto_Free",
+    "url": "https://fixthephoto.com/free-luts",
+    "http_status": 200,
+    "classification": "CAPTCHA_OR_POW_GATED",
+    "direct_assets": [],
+    "cloud_links": [],
+    "downloaded": []
+  },
+  {
+    "name": "LiftGammaGain_LUTs",
+    "url": "https://www.liftgammagain.com/forum/index.php?forums/luts-look-management.55/",
+    "http_status": 200,
+    "classification": "LOGIN_EMAIL_OR_CART_GATED",
+    "direct_assets": [],
+    "cloud_links": [],
+    "downloaded": []
+  },
+  {
+    "name": "EOSHD_Forum",
+    "url": "https://www.eoshd.com/comments/",
+    "http_status": 200,
+    "classification": "LOGIN_EMAIL_OR_CART_GATED",
+    "direct_assets": [],
+    "cloud_links": [],
+    "downloaded": []
+  },
+  {
+    "name": "Cinematography_Forum",
+    "url": "https://cinematography.com/",
+    "http_status": 403,
+    "classification": "HTTP_403_GATED_OR_BLOCKED",
+    "direct_assets": [],
+    "cloud_links": [],
+    "downloaded": []
+  },
+  {
+    "name": "DVXUser_Forum",
+    "url": "https://www.dvxuser.com/",
+    "http_status": 200,
+    "classification": "LOGIN_EMAIL_OR_CART_GATED",
+    "direct_assets": [],
+    "cloud_links": [],
+    "downloaded": []
+  },
+  {
+    "name": "Blackmagic_Forum",
+    "url": "https://forum.blackmagicdesign.com/viewforum.php?f=2",
+    "http_status": 202,
+    "classification": "PUBLIC_INFO_ONLY",
+    "direct_assets": [],
+    "cloud_links": [],
+    "downloaded": []
+  },
+  {
+    "name": "LumaDune_AppleLog",
+    "url": "https://lumadune.com/luts/apple-log",
+    "http_status": 200,
+    "classification": "PUBLIC_DIRECT_ASSETS",
+    "direct_assets": [
+      "https://res.lumadune.com/static-lut-files/AppleLog2ToRec709-v1.0-33.cube",
+      "https://res.lumadune.com/static-lut-files/AppleLog2ToRec709-v1.0-65.cube",
+      "https://res.lumadune.com/static-lut-files/AppleLogToRec709-v1.0-33.cube",
+      "https://res.lumadune.com/static-lut-files/AppleLogToRec709-v1.0-65.cube"
+    ],
+    "cloud_links": [],
+    "downloaded": []
+  },
+  {
+    "name": "RodrigoPolo_AppleLog2",
+    "url": "https://rodrigopolo.com/2025/11/apple-log-2-to-rec-709-lut/",
+    "http_status": 404,
+    "classification": "HTTP_404_GATED_OR_BLOCKED",
+    "direct_assets": [],
+    "cloud_links": [],
+    "downloaded": []
+  },
+  {
+    "name": "Luttie_Blackmagic",
+    "url": "https://luttie.app/luts/camera/blackmagic",
+    "http_status": 200,
+    "classification": "PUBLIC_DIRECT_ASSETS",
+    "direct_assets": [
+      "https://luttie.app/api/lut-assets/390?download=Bright%20%26%20Airy%20(Apple%20Log).cube",
+      "https://luttie.app/api/lut-assets/391?download=Cinematic%20Teal%20%26%20Orange%20(Apple%20Log).cube",
+      "https://luttie.app/api/lut-assets/392?download=Classic%20B%26W%20(Apple%20Log).cube",
+      "https://luttie.app/api/lut-assets/393?download=Cool%20Blue%20Steel%20(Apple%20Log).cube",
+      "https://luttie.app/api/lut-assets/394?download=Cyberpunk%20Neon%20(Apple%20Log).cube",
+      "https://luttie.app/api/lut-assets/395?download=Faded%20Kodak%20(Apple%20Log).cube",
+      "https://luttie.app/api/lut-assets/396?download=High%20Contrast%20(Apple%20Log).cube",
+      "https://luttie.app/api/lut-assets/397?download=Matte%20Fade%20(Apple%20Log).cube",
+      "https://luttie.app/api/lut-assets/398?download=Moody%20Cinematic%20(Apple%20Log).cube",
+      "https://luttie.app/api/lut-assets/399?download=Soft%20Portrait%20(Apple%20Log).cube",
+      "https://luttie.app/api/lut-assets/400?download=Warm%20Golden%20Hour%20(Apple%20Log).cube",
+      "https://luttie.app/api/lut-assets/401?download=Bright%20%26%20Airy%20(Apple%20Log%202).cube",
+      "https://luttie.app/api/lut-assets/402?download=Cinematic%20Teal%20%26%20Orange%20(Apple%20Log%202).cube",
+      "https://luttie.app/api/lut-assets/403?download=Classic%20B%26W%20(Apple%20Log%202).cube",
+      "https://luttie.app/api/lut-assets/404?download=Cool%20Blue%20Steel%20(Apple%20Log%202).cube",
+      "https://luttie.app/api/lut-assets/405?download=Cyberpunk%20Neon%20(Apple%20Log%202).cube",
+      "https://luttie.app/api/lut-assets/406?download=Faded%20Kodak%20(Apple%20Log%202).cube",
+      "https://luttie.app/api/lut-assets/407?download=High%20Contrast%20(Apple%20Log%202).cube",
+      "https://luttie.app/api/lut-assets/408?download=Matte%20Fade%20(Apple%20Log%202).cube",
+      "https://luttie.app/api/lut-assets/409?download=Moody%20Cinematic%20(Apple%20Log%202).cube",
+      "https://luttie.app/api/lut-assets/410?download=Soft%20Portrait%20(Apple%20Log%202).cube",
+      "https://luttie.app/api/lut-assets/411?download=Warm%20Golden%20Hour%20(Apple%20Log%202).cube"
+    ],
+    "cloud_links": [],
+    "downloaded": []
+  },
+  {
+    "name": "FotorGear_LUTs",
+    "url": "https://www.fotorgear.com/pages/luts",
+    "http_status": 200,
+    "classification": "PUBLIC_DIRECT_ASSETS",
+    "direct_assets": [],
+    "cloud_links": [
+      "https://drive.google.com/drive/folders/1EF-QU1gkJmt2pA3urQRYMmucsgYFJLbk",
+      "https://drive.google.com/drive/folders/1pPrzZgAMvyXCmH0TL0zUIAwsVMYtUrbY",
+      "https://drive.google.com/drive/folders/1pPrzZgAMvyXCmH0TL0zUIAwsVMYtUrbY?usp=sharing",
+      "https://drive.google.com/file/d/1HVfCAiVn4qbTtfyho6_1X18mEsT1frr3/view?usp=sharing",
+      "https://drive.google.com/file/d/1vsb6D897wksXh3AC7eiMb8STyxUDFYMB/view"
+    ],
+    "downloaded": []
+  },
+  {
+    "name": "NoPixels_HLG",
+    "url": "https://nopixels.net/hlg-to-rec709/",
+    "http_status": 200,
+    "classification": "PUBLIC_INFO_ONLY",
+    "direct_assets": [],
+    "cloud_links": [],
+    "downloaded": []
+  }
+]

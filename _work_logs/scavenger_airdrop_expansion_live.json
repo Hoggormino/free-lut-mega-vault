@@ -1,0 +1,207 @@
+{
+  "copied": 28,
+  "skipped_identical": 0,
+  "excluded_65pt_or_nonmatching": 18,
+  "bundle_total_cubes_after": 62,
+  "copied_files": [
+    [
+      "AppleLog2ToRec709-v1.0-33.cube",
+      "01_Apple_Log_2_iPhone17Pro",
+      "f336828d18348afbe7bad1a002e62b0e0b9bd98039d1e02fb666fed34c7777d0"
+    ],
+    [
+      "AppleLog2_to_Rec709_33_Grid.cube",
+      "01_Apple_Log_2_iPhone17Pro",
+      "6365e034064612eeab1326bb3b72198594aba03151173a9a56913aadb0f41584"
+    ],
+    [
+      "OtherProResRAW_AppleLog2_to_Rec709_33_Grid.cube",
+      "01_Apple_Log_2_iPhone17Pro",
+      "d9dd6489af7abd8b9a423a05fa7ee21c5b9d0a02dad8cc58cbe5cec4fbda6bb2"
+    ],
+    [
+      "BMSoftDocAppleLog2.cube",
+      "01_Apple_Log_2_iPhone17Pro",
+      "ea4c8bc3f56eaab3a3084d523a05c5effc8ffe748d65b5eec553b14383d9ce76"
+    ],
+    [
+      "Cyberpunk Neon (Apple Log 2).cube",
+      "01_Apple_Log_2_iPhone17Pro",
+      "c7132f2bbe9ef18a3837549be0bc34b45e1ddbf25d5e74ac4251a99e13e701e0"
+    ],
+    [
+      "Moody Cinematic (Apple Log 2).cube",
+      "01_Apple_Log_2_iPhone17Pro",
+      "4960d2ff5bc080d917cf9754d0f5d18613690c5ec07d6d04a2096a7efda039a9"
+    ],
+    [
+      "Faded Kodak (Apple Log 2).cube",
+      "01_Apple_Log_2_iPhone17Pro",
+      "694f45d0a94c49165edebf8a946f0b40089f3459a9bbd38079b89221bbc257f0"
+    ],
+    [
+      "Cool Blue Steel (Apple Log 2).cube",
+      "01_Apple_Log_2_iPhone17Pro",
+      "80fb8f7a6a3a34fbf2679c10c2d5eb54c130c9d2c635ca5a417168f380462c13"
+    ],
+    [
+      "Warm Golden Hour (Apple Log 2).cube",
+      "01_Apple_Log_2_iPhone17Pro",
+      "6f98b5cfe41fe059c34a9080597c7090b902b4dc023be8a89c475d9745d3f3c9"
+    ],
+    [
+      "Cinematic Teal & Orange (Apple Log 2).cube",
+      "01_Apple_Log_2_iPhone17Pro",
+      "21fca7a7fc9a5fcab6bbfa43663971bcc6416d0347742a07257288aa6f4fc04d"
+    ],
+    [
+      "Matte Fade (Apple Log 2).cube",
+      "01_Apple_Log_2_iPhone17Pro",
+      "00c007bfc1fe2c8c98b73368ffc145695ebe659682f771287dc009dfa0d1808a"
+    ],
+    [
+      "Soft Portrait (Apple Log 2).cube",
+      "01_Apple_Log_2_iPhone17Pro",
+      "1e7d6107c5fdc34a4af61b03d79a5f9d10a1454f465889a1f6abe485932188b6"
+    ],
+    [
+      "High Contrast (Apple Log 2).cube",
+      "01_Apple_Log_2_iPhone17Pro",
+      "0a837c926a57c3276e1522dff4801eda92e78d059ab8f8eb3a23916aa68bbf4e"
+    ],
+    [
+      "Bright & Airy (Apple Log 2).cube",
+      "01_Apple_Log_2_iPhone17Pro",
+      "cc45c247838e666750c07bb8e860bc0902854cdaf6825d635cd13fa26dda95de"
+    ],
+    [
+      "Classic B&W (Apple Log 2).cube",
+      "01_Apple_Log_2_iPhone17Pro",
+      "f2a655bb06354f194d8e3be5899c3195708ddb5b382dbc9ceeb7a78b8b309b44"
+    ],
+    [
+      "AppleLogToRec709-v1.0-33.cube",
+      "02_Apple_Log_iPhone17Pro",
+      "0707c62c29a4f37c22509b52a56bc188b9e8ef06d639cccb3178bf2b8c7b4ab7"
+    ],
+    [
+      "BMSoftDocAppleLog.cube",
+      "02_Apple_Log_iPhone17Pro",
+      "ecd77757c9b59df3eeec7dff4acee5b97a1679466be3166e907089474196e42f"
+    ],
+    [
+      "Cyberpunk Neon (Apple Log).cube",
+      "02_Apple_Log_iPhone17Pro",
+      "7713caa1e4f72fc4e76da8e6f61bae8789a223451ae57bd18c72e59e816c146b"
+    ],
+    [
+      "Moody Cinematic (Apple Log).cube",
+      "02_Apple_Log_iPhone17Pro",
+      "e4db53a688b5acf07d43b9a6c9054d5cb90513c015148a99821f150a7c358f69"
+    ],
+    [
+      "Faded Kodak (Apple Log).cube",
+      "02_Apple_Log_iPhone17Pro",
+      "27182a165ef161d8ac19173e7e920a4a4de0943466a673bdcc91f8ebdae40d9b"
+    ],
+    [
+      "Cool Blue Steel (Apple Log).cube",
+      "02_Apple_Log_iPhone17Pro",
+      "2f97c3e4edabc5c0f87df43c926672b2bce65ca6413984a5a959343c31bf5a48"
+    ],
+    [
+      "Warm Golden Hour (Apple Log).cube",
+      "02_Apple_Log_iPhone17Pro",
+      "89b853f5f8ae2e0c7298fb309b6f815cfb9bd48e458036f1a416cfb47e09a7ae"
+    ],
+    [
+      "Cinematic Teal & Orange (Apple Log).cube",
+      "02_Apple_Log_iPhone17Pro",
+      "1babf1491e6ed743c594c277ec40beb1ba3e37461e215287170988657bc21fd2"
+    ],
+    [
+      "Cyberpunk Neon (Rec.709).cube",
+      "03_GuVue_HK_Series_Matches_Rec709_33pt",
+      "11279e1b0e7c854db108f78667ac580ff874347bd95693a2c1ef3aa6019b1505"
+    ],
+    [
+      "Moody Cinematic Dark Teal (Rec.709).cube",
+      "03_GuVue_HK_Series_Matches_Rec709_33pt",
+      "2ce6f46d3fc2618f3401e6e94b98c060b63a9bb3db67b8b9612b29f3f604117a"
+    ],
+    [
+      "Kodak 2383 Print (Rec.709).cube",
+      "04_Rec709_Film_Stocks_iPhone17_Air_33pt",
+      "fe7f12dab4769b3831a5988639ec5a334af40777b15e5b100b9394cbb5d28af3"
+    ],
+    [
+      "Portra 400 (Rec.709).cube",
+      "04_Rec709_Film_Stocks_iPhone17_Air_33pt",
+      "8eb99d39562c6c0d635515428b4df0be97da469ce721b330206cdd6ba2bd3f83"
+    ],
+    [
+      "Faded Kodak (Rec.709).cube",
+      "04_Rec709_Film_Stocks_iPhone17_Air_33pt",
+      "8f18f6508dc33b7f879c2cef88b5679bd83f9e9fb8cebfc440f63b75a160dce5"
+    ]
+  ],
+  "log": [
+    "OK   pre-check 01_Luma_Dune___Apple_Log_2_to_Rec.709_v1.0__33pt_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 03_Rodrigo_Polo___Apple_Log_2_to_Rec.709__33pt_Monitor_Grid_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 04_Rodrigo_Polo___ProRes_RAW_Apple_Log_2_to_Rec.709__33pt_Grid_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 35_BMSoftDocAppleLog2.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 05_Luttie___Cyberpunk_Neon__Apple_Log_2_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 06_Luttie___Moody_Cinematic_Dark_Teal__Apple_Log_2_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 07_Luttie___Faded_Kodak_Film__Apple_Log_2_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 08_Luttie___Cool_Blue_Steel__Apple_Log_2_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 09_Luttie___Warm_Golden_Hour__Apple_Log_2_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 10_Luttie___Cinematic_Teal___Orange__Apple_Log_2_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 11_Luttie___Matte_Fade__Apple_Log_2_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 12_Luttie___Soft_Portrait__Apple_Log_2_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 13_Luttie___High_Contrast__Apple_Log_2_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 14_Luttie___Bright___Airy__Apple_Log_2_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 15_Luttie___Classic_B_W__Apple_Log_2_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 02_Luma_Dune___Apple_Log_to_Rec.709_v1.0__33pt_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 36_BMSoftDocAppleLog.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 16_Luttie___Cyberpunk_Neon__Apple_Log_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 17_Luttie___Moody_Cinematic__Apple_Log_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 18_Luttie___Faded_Kodak__Apple_Log_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 19_Luttie___Cool_Blue_Steel__Apple_Log_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 20_Luttie___Warm_Golden_Hour__Apple_Log_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 21_Luttie___Cinematic_Teal___Orange__Apple_Log_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 24_Luttie___Cyberpunk_Neon__Rec.709_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 25_Luttie___Moody_Cinematic_Dark_Teal__Rec.709_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 22_Luttie___Kodak_2383_Print__Rec.709_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 23_Luttie___Kodak_Portra_400__Rec.709_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "OK   pre-check 26_Luttie___Faded_Kodak__Rec.709_.cube: LUT_3D_SIZE=33 triplets=35937",
+    "COPIED -> ready_to_airdrop_33pt/01_Apple_Log_2_iPhone17Pro/AppleLog2ToRec709-v1.0-33.cube (33pt, 35937 triplets, sha f336828d1834)",
+    "COPIED -> ready_to_airdrop_33pt/01_Apple_Log_2_iPhone17Pro/AppleLog2_to_Rec709_33_Grid.cube (33pt, 35937 triplets, sha 6365e0340646)",
+    "COPIED -> ready_to_airdrop_33pt/01_Apple_Log_2_iPhone17Pro/OtherProResRAW_AppleLog2_to_Rec709_33_Grid.cube (33pt, 35937 triplets, sha d9dd6489af7a)",
+    "COPIED -> ready_to_airdrop_33pt/01_Apple_Log_2_iPhone17Pro/BMSoftDocAppleLog2.cube (33pt, 35937 triplets, sha ea4c8bc3f56e)",
+    "COPIED -> ready_to_airdrop_33pt/01_Apple_Log_2_iPhone17Pro/Cyberpunk Neon (Apple Log 2).cube (33pt, 35937 triplets, sha c7132f2bbe9e)",
+    "COPIED -> ready_to_airdrop_33pt/01_Apple_Log_2_iPhone17Pro/Moody Cinematic (Apple Log 2).cube (33pt, 35937 triplets, sha 4960d2ff5bc0)",
+    "COPIED -> ready_to_airdrop_33pt/01_Apple_Log_2_iPhone17Pro/Faded Kodak (Apple Log 2).cube (33pt, 35937 triplets, sha 694f45d0a94c)",
+    "COPIED -> ready_to_airdrop_33pt/01_Apple_Log_2_iPhone17Pro/Cool Blue Steel (Apple Log 2).cube (33pt, 35937 triplets, sha 80fb8f7a6a3a)",
+    "COPIED -> ready_to_airdrop_33pt/01_Apple_Log_2_iPhone17Pro/Warm Golden Hour (Apple Log 2).cube (33pt, 35937 triplets, sha 6f98b5cfe41f)",
+    "COPIED -> ready_to_airdrop_33pt/01_Apple_Log_2_iPhone17Pro/Cinematic Teal & Orange (Apple Log 2).cube (33pt, 35937 triplets, sha 21fca7a7fc9a)",
+    "COPIED -> ready_to_airdrop_33pt/01_Apple_Log_2_iPhone17Pro/Matte Fade (Apple Log 2).cube (33pt, 35937 triplets, sha 00c007bfc1fe)",
+    "COPIED -> ready_to_airdrop_33pt/01_Apple_Log_2_iPhone17Pro/Soft Portrait (Apple Log 2).cube (33pt, 35937 triplets, sha 1e7d6107c5fd)",
+    "COPIED -> ready_to_airdrop_33pt/01_Apple_Log_2_iPhone17Pro/High Contrast (Apple Log 2).cube (33pt, 35937 triplets, sha 0a837c926a57)",
+    "COPIED -> ready_to_airdrop_33pt/01_Apple_Log_2_iPhone17Pro/Bright & Airy (Apple Log 2).cube (33pt, 35937 triplets, sha cc45c247838e)",
+    "COPIED -> ready_to_airdrop_33pt/01_Apple_Log_2_iPhone17Pro/Classic B&W (Apple Log 2).cube (33pt, 35937 triplets, sha f2a655bb0635)",
+    "COPIED -> ready_to_airdrop_33pt/02_Apple_Log_iPhone17Pro/AppleLogToRec709-v1.0-33.cube (33pt, 35937 triplets, sha 0707c62c29a4)",
+    "COPIED -> ready_to_airdrop_33pt/02_Apple_Log_iPhone17Pro/BMSoftDocAppleLog.cube (33pt, 35937 triplets, sha ecd77757c9b5)",
+    "COPIED -> ready_to_airdrop_33pt/02_Apple_Log_iPhone17Pro/Cyberpunk Neon (Apple Log).cube (33pt, 35937 triplets, sha 7713caa1e4f7)",
+    "COPIED -> ready_to_airdrop_33pt/02_Apple_Log_iPhone17Pro/Moody Cinematic (Apple Log).cube (33pt, 35937 triplets, sha e4db53a688b5)",
+    "COPIED -> ready_to_airdrop_33pt/02_Apple_Log_iPhone17Pro/Faded Kodak (Apple Log).cube (33pt, 35937 triplets, sha 27182a165ef1)",
+    "COPIED -> ready_to_airdrop_33pt/02_Apple_Log_iPhone17Pro/Cool Blue Steel (Apple Log).cube (33pt, 35937 triplets, sha 2f97c3e4edab)",
+    "COPIED -> ready_to_airdrop_33pt/02_Apple_Log_iPhone17Pro/Warm Golden Hour (Apple Log).cube (33pt, 35937 triplets, sha 89b853f5f8ae)",
+    "COPIED -> ready_to_airdrop_33pt/02_Apple_Log_iPhone17Pro/Cinematic Teal & Orange (Apple Log).cube (33pt, 35937 triplets, sha 1babf1491e6e)",
+    "COPIED -> ready_to_airdrop_33pt/03_GuVue_HK_Series_Matches_Rec709_33pt/Cyberpunk Neon (Rec.709).cube (33pt, 35937 triplets, sha 11279e1b0e7c)",
+    "COPIED -> ready_to_airdrop_33pt/03_GuVue_HK_Series_Matches_Rec709_33pt/Moody Cinematic Dark Teal (Rec.709).cube (33pt, 35937 triplets, sha 2ce6f46d3fc2)",
+    "COPIED -> ready_to_airdrop_33pt/04_Rec709_Film_Stocks_iPhone17_Air_33pt/Kodak 2383 Print (Rec.709).cube (33pt, 35937 triplets, sha fe7f12dab476)",
+    "COPIED -> ready_to_airdrop_33pt/04_Rec709_Film_Stocks_iPhone17_Air_33pt/Portra 400 (Rec.709).cube (33pt, 35937 triplets, sha 8eb99d39562c)",
+    "COPIED -> ready_to_airdrop_33pt/04_Rec709_Film_Stocks_iPhone17_Air_33pt/Faded Kodak (Rec.709).cube (33pt, 35937 triplets, sha 8f18f6508dc3)"
+  ],
+  "bundle_sweep": "ALL 33pt PASS"
+}

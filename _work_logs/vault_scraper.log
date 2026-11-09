@@ -1,0 +1,15 @@
+IWLTBAP_Free             | HTTP 200  | PUBLIC_DIRECT_ASSETS       | direct=2 cloud=0 dl=2
+FreshLUTs                | HTTP 200  | LOGIN_EMAIL_OR_CART_GATED  | direct=0 cloud=0 dl=0
+GroundControl_Free       | HTTP 404  | HTTP_404_GATED_OR_BLOCKED  | direct=0 cloud=0 dl=0
+PresetPro_Free           | HTTP 200  | LOGIN_EMAIL_OR_CART_GATED  | direct=0 cloud=0 dl=0
+FixThePhoto_Free         | HTTP 200  | CAPTCHA_OR_POW_GATED       | direct=0 cloud=0 dl=0
+LiftGammaGain_LUTs       | HTTP 200  | LOGIN_EMAIL_OR_CART_GATED  | direct=0 cloud=0 dl=0
+EOSHD_Forum              | HTTP 200  | LOGIN_EMAIL_OR_CART_GATED  | direct=0 cloud=0 dl=0
+Cinematography_Forum     | HTTP 403  | HTTP_403_GATED_OR_BLOCKED  | direct=0 cloud=0 dl=0
+DVXUser_Forum            | HTTP 200  | LOGIN_EMAIL_OR_CART_GATED  | direct=0 cloud=0 dl=0
+Blackmagic_Forum         | HTTP 202  | PUBLIC_INFO_ONLY           | direct=0 cloud=0 dl=0
+LumaDune_AppleLog        | HTTP 200  | PUBLIC_DIRECT_ASSETS       | direct=4 cloud=0 dl=0
+RodrigoPolo_AppleLog2    | HTTP 404  | HTTP_404_GATED_OR_BLOCKED  | direct=0 cloud=0 dl=0
+Luttie_Blackmagic        | HTTP 200  | PUBLIC_DIRECT_ASSETS       | direct=22 cloud=0 dl=0
+FotorGear_LUTs           | HTTP 200  | PUBLIC_DIRECT_ASSETS       | direct=0 cloud=5 dl=0
+NoPixels_HLG             | HTTP 200  | PUBLIC_INFO_ONLY           | direct=0 cloud=0 dl=0
