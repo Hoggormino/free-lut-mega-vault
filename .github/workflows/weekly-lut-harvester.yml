@@ -1,0 +1,33 @@
+name: Weekly Open-Source 3D LUT Auto-Harvester
+
+on:
+  schedule:
+    - cron: '0 3 * * 0' # Runs every Sunday at 03:00 UTC
+  workflow_dispatch:     # Allows manual 1-click trigger in GitHub Actions tab
+
+permissions:
+  contents: write
+
+jobs:
+  harvest-and-index:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout LUT Mega-Vault
+        uses: actions/checkout@v4
+
+      - name: Set up Python 3.12
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Run Weekly GitHub .cube Discovery & SHA-256 Deduplicator
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        run: python3 scripts/ci_weekly_harvest.py
+
+      - name: Commit & Push Newly Discovered LUTs
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add luts/ lut_index.json README.md
+          git diff --staged --quiet || (git commit -m "chore(autoharvest): weekly open-source .cube LUT index update" && git push)
