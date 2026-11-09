@@ -1,0 +1,6 @@
+_tools/
+_incoming_staging/
+_repo_clones/
+_work_logs/
+.DS_Store
+*.pyc

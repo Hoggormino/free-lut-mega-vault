@@ -1,0 +1,3772 @@
+[
+  {
+    "filename": "[Apple-Log-2][Cinematic-Balanced][33pt]_Apple_Log_2_cinematic.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cinematic-Balanced][33pt]_Apple_Log_2_cinematic.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 846,
+    "sha256": "dfdac1e9f9da"
+  },
+  {
+    "filename": "[Apple-Log-2][Cyberpunk-Magenta][33pt]_Apple_Log_2_natural.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cyberpunk-Magenta][33pt]_Apple_Log_2_natural.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 846,
+    "sha256": "f7cd3afb92dc"
+  },
+  {
+    "filename": "[Apple-Log-2][Technical-Conversion][33pt]_BMAppleLog2to709.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Technical-Conversion][33pt]_BMAppleLog2to709.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "0b7682b77ea5"
+  },
+  {
+    "filename": "[Apple-Log-2][Cinematic-Balanced][33pt]_BMSoftDocAppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cinematic-Balanced][33pt]_BMSoftDocAppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "ea4c8bc3f56e"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-ACROS_1.A001_11220924_C056.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-ACROS_1.A001_11220924_C056.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 975,
+    "sha256": "2956857ff855"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-ASTIA_1.A001_11220924_C056.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-ASTIA_1.A001_11220924_C056.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 924,
+    "sha256": "7654e69ebeb3"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-CC_1.A001_11220924_C056.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-CC_1.A001_11220924_C056.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 991,
+    "sha256": "4a89bd1a22b3"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-CN_1.A001_11220924_C056.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-CN_1.A001_11220924_C056.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 980,
+    "sha256": "27565b15374b"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-ETERNA-BB_1.A001_11220924_C056.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-ETERNA-BB_1.A001_11220924_C056.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 971,
+    "sha256": "d2c39dc4330e"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-ETERNA_1.A001_11220924_C056.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-ETERNA_1.A001_11220924_C056.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 973,
+    "sha256": "8317ec5aabd0"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-PROVIA_1.A001_11220924_C056.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-PROVIA_1.A001_11220924_C056.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 844,
+    "sha256": "c9d20227ffb8"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-VELVIA_1.A001_11220924_C056.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_FUJI-VELVIA_1.A001_11220924_C056.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 922,
+    "sha256": "b8889d5a093e"
+  },
+  {
+    "filename": "[Apple-Log-2][Technical-Conversion][33pt]_LumaDune_AppleLog2_to_Rec709_33pt.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Technical-Conversion][33pt]_LumaDune_AppleLog2_to_Rec709_33pt.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1579,
+    "sha256": "f336828d1834"
+  },
+  {
+    "filename": "[Apple-Log-2][Cinematic-Balanced][33pt]_Luttie_Bright_Airy_AppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cinematic-Balanced][33pt]_Luttie_Bright_Airy_AppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "cc45c247838e"
+  },
+  {
+    "filename": "[Apple-Log-2][Monochrome-BW][33pt]_Luttie_Classic_BW_AppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Monochrome-BW][33pt]_Luttie_Classic_BW_AppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Monochrome-BW",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "f2a655bb0635"
+  },
+  {
+    "filename": "[Apple-Log-2][Cool-Cyan-Neon][33pt]_Luttie_Cool_Blue_Steel_AppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cool-Cyan-Neon][33pt]_Luttie_Cool_Blue_Steel_AppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "80fb8f7a6a3a"
+  },
+  {
+    "filename": "[Apple-Log-2][HK-Neon-Cyberpunk][33pt]_Luttie_Cyberpunk_Neon_AppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][HK-Neon-Cyberpunk][33pt]_Luttie_Cyberpunk_Neon_AppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "HK-Neon-Cyberpunk",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "c7132f2bbe9e"
+  },
+  {
+    "filename": "[Apple-Log-2][Film-Stock-Emulation][33pt]_Luttie_Faded_Kodak_AppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Film-Stock-Emulation][33pt]_Luttie_Faded_Kodak_AppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "694f45d0a94c"
+  },
+  {
+    "filename": "[Apple-Log-2][Cinematic-Balanced][33pt]_Luttie_High_Contrast_AppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cinematic-Balanced][33pt]_Luttie_High_Contrast_AppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "0a837c926a57"
+  },
+  {
+    "filename": "[Apple-Log-2][Cyberpunk-Magenta][33pt]_Luttie_Matte_Fade_AppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cyberpunk-Magenta][33pt]_Luttie_Matte_Fade_AppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "00c007bfc1fe"
+  },
+  {
+    "filename": "[Apple-Log-2][Cinematic-Balanced][33pt]_Luttie_Moody_Cinematic_AppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cinematic-Balanced][33pt]_Luttie_Moody_Cinematic_AppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "4960d2ff5bc0"
+  },
+  {
+    "filename": "[Apple-Log-2][Film-Stock-Emulation][33pt]_Luttie_Soft_Portrait_AppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Film-Stock-Emulation][33pt]_Luttie_Soft_Portrait_AppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "1e7d6107c5fd"
+  },
+  {
+    "filename": "[Apple-Log-2][Teal-and-Orange][33pt]_Luttie_Teal_Orange_AppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Teal-and-Orange][33pt]_Luttie_Teal_Orange_AppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Teal-and-Orange",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "21fca7a7fc9a"
+  },
+  {
+    "filename": "[Apple-Log-2][Warm-Golden-Film][33pt]_Luttie_Warm_Golden_Hour_AppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Warm-Golden-Film][33pt]_Luttie_Warm_Golden_Hour_AppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Warm-Golden-Film",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "6f98b5cfe41f"
+  },
+  {
+    "filename": "[Apple-Log-2][Technical-Conversion][33pt]_RodrigoPolo_AppleLog2_to_Rec709_33pt.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Technical-Conversion][33pt]_RodrigoPolo_AppleLog2_to_Rec709_33pt.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 670,
+    "sha256": "6365e0340646"
+  },
+  {
+    "filename": "[Apple-Log-2][Cinematic-Balanced][33pt]_RodrigoPolo_ProResRAW_AppleLog2_33pt.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cinematic-Balanced][33pt]_RodrigoPolo_ProResRAW_AppleLog2_33pt.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 597,
+    "sha256": "d9dd6489af7a"
+  },
+  {
+    "filename": "[Apple-Log][Cinematic-Balanced][33pt]_Apple_Log_cinematic.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Cinematic-Balanced][33pt]_Apple_Log_cinematic.cube",
+    "color_space": "Apple-Log",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 904,
+    "sha256": "bbb35770cdfe"
+  },
+  {
+    "filename": "[Apple-Log][Cyberpunk-Magenta][33pt]_Apple_Log_natural.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Cyberpunk-Magenta][33pt]_Apple_Log_natural.cube",
+    "color_space": "Apple-Log",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 873,
+    "sha256": "65af08d69561"
+  },
+  {
+    "filename": "[Apple-Log][Technical-Conversion][33pt]_BMAppleLogto709.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Technical-Conversion][33pt]_BMAppleLogto709.cube",
+    "color_space": "Apple-Log",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "8135be8ab3d8"
+  },
+  {
+    "filename": "[Apple-Log][Cinematic-Balanced][33pt]_BMSoftDocAppleLog.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Cinematic-Balanced][33pt]_BMSoftDocAppleLog.cube",
+    "color_space": "Apple-Log",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "ecd77757c9b5"
+  },
+  {
+    "filename": "[Rec709-Creative][Technical-Conversion][33pt]_Clean709.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Technical-Conversion][33pt]_Clean709.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "6b87fa4f649f"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][33pt]_FadedVintage.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][33pt]_FadedVintage.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "5365a7732d0d"
+  },
+  {
+    "filename": "[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_ACROS.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_ACROS.cube",
+    "color_space": "Apple-Log",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "0b5e208c95e3"
+  },
+  {
+    "filename": "[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_ASTIA.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_ASTIA.cube",
+    "color_space": "Apple-Log",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "13f5be1a124f"
+  },
+  {
+    "filename": "[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_CLASSIC_CHROME.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_CLASSIC_CHROME.cube",
+    "color_space": "Apple-Log",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "25c08d505f39"
+  },
+  {
+    "filename": "[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_CLASSIC_NEG.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_CLASSIC_NEG.cube",
+    "color_space": "Apple-Log",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "f66bc5e6b49b"
+  },
+  {
+    "filename": "[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_ETERNA.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_ETERNA.cube",
+    "color_space": "Apple-Log",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "96179bac7568"
+  },
+  {
+    "filename": "[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_ETERNA_BB.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_ETERNA_BB.cube",
+    "color_space": "Apple-Log",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "660386d37947"
+  },
+  {
+    "filename": "[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_PROVIA.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_PROVIA.cube",
+    "color_space": "Apple-Log",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "f17bc2acd01a"
+  },
+  {
+    "filename": "[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_PRO_Neg_Std.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_PRO_Neg_Std.cube",
+    "color_space": "Apple-Log",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "6c32b4cd373e"
+  },
+  {
+    "filename": "[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_REALA_ACE.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_REALA_ACE.cube",
+    "color_space": "Apple-Log",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "0f176036c2db"
+  },
+  {
+    "filename": "[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_Velvia.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Film-Stock-Emulation][33pt]_FotorGear_AppleLog_Fuji_Velvia.cube",
+    "color_space": "Apple-Log",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "e507201f9607"
+  },
+  {
+    "filename": "[Apple-Log][Technical-Conversion][33pt]_LumaDune_AppleLog_to_Rec709_33pt.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Technical-Conversion][33pt]_LumaDune_AppleLog_to_Rec709_33pt.cube",
+    "color_space": "Apple-Log",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1579,
+    "sha256": "0707c62c29a4"
+  },
+  {
+    "filename": "[Apple-Log][Cinematic-Balanced][33pt]_Luttie_Bright_Airy_AppleLog.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Cinematic-Balanced][33pt]_Luttie_Bright_Airy_AppleLog.cube",
+    "color_space": "Apple-Log",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "fef77ebf4a2b"
+  },
+  {
+    "filename": "[Apple-Log][Monochrome-BW][33pt]_Luttie_Classic_BW_AppleLog.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Monochrome-BW][33pt]_Luttie_Classic_BW_AppleLog.cube",
+    "color_space": "Apple-Log",
+    "style": "Monochrome-BW",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "987d96d3408b"
+  },
+  {
+    "filename": "[Apple-Log][Cool-Cyan-Neon][33pt]_Luttie_Cool_Blue_Steel_AppleLog.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Cool-Cyan-Neon][33pt]_Luttie_Cool_Blue_Steel_AppleLog.cube",
+    "color_space": "Apple-Log",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "2f97c3e4edab"
+  },
+  {
+    "filename": "[Apple-Log][HK-Neon-Cyberpunk][33pt]_Luttie_Cyberpunk_Neon_AppleLog.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][HK-Neon-Cyberpunk][33pt]_Luttie_Cyberpunk_Neon_AppleLog.cube",
+    "color_space": "Apple-Log",
+    "style": "HK-Neon-Cyberpunk",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "7713caa1e4f7"
+  },
+  {
+    "filename": "[Apple-Log][Film-Stock-Emulation][33pt]_Luttie_Faded_Kodak_AppleLog.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Film-Stock-Emulation][33pt]_Luttie_Faded_Kodak_AppleLog.cube",
+    "color_space": "Apple-Log",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "27182a165ef1"
+  },
+  {
+    "filename": "[Apple-Log][Cinematic-Balanced][33pt]_Luttie_High_Contrast_AppleLog.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Cinematic-Balanced][33pt]_Luttie_High_Contrast_AppleLog.cube",
+    "color_space": "Apple-Log",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "9575ff69218c"
+  },
+  {
+    "filename": "[Apple-Log][Cyberpunk-Magenta][33pt]_Luttie_Matte_Fade_AppleLog.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Cyberpunk-Magenta][33pt]_Luttie_Matte_Fade_AppleLog.cube",
+    "color_space": "Apple-Log",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "015bdd5e5c78"
+  },
+  {
+    "filename": "[Apple-Log][Cinematic-Balanced][33pt]_Luttie_Moody_Cinematic_AppleLog.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Cinematic-Balanced][33pt]_Luttie_Moody_Cinematic_AppleLog.cube",
+    "color_space": "Apple-Log",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "e4db53a688b5"
+  },
+  {
+    "filename": "[Apple-Log][Film-Stock-Emulation][33pt]_Luttie_Soft_Portrait_AppleLog.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Film-Stock-Emulation][33pt]_Luttie_Soft_Portrait_AppleLog.cube",
+    "color_space": "Apple-Log",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "73953389a289"
+  },
+  {
+    "filename": "[Apple-Log][Teal-and-Orange][33pt]_Luttie_Teal_Orange_AppleLog.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Teal-and-Orange][33pt]_Luttie_Teal_Orange_AppleLog.cube",
+    "color_space": "Apple-Log",
+    "style": "Teal-and-Orange",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "1babf1491e6e"
+  },
+  {
+    "filename": "[Apple-Log][Warm-Golden-Film][33pt]_Luttie_Warm_Golden_Hour_AppleLog.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Warm-Golden-Film][33pt]_Luttie_Warm_Golden_Hour_AppleLog.cube",
+    "color_space": "Apple-Log",
+    "style": "Warm-Golden-Film",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "89b853f5f8ae"
+  },
+  {
+    "filename": "[Rec709-Creative][Monochrome-BW][33pt]_MonoBW.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Monochrome-BW][33pt]_MonoBW.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Monochrome-BW",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "448ea7a14ecf"
+  },
+  {
+    "filename": "[Rec709-Creative][Teal-and-Orange][33pt]_TealOrange.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Teal-and-Orange][33pt]_TealOrange.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Teal-and-Orange",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "7a0d6e22b8cf"
+  },
+  {
+    "filename": "[Apple-Log][Technical-Conversion][33pt]_TheOneLUT_iPhone15Pro_AppleLog_Arri709_V5_33pt.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Technical-Conversion][33pt]_TheOneLUT_iPhone15Pro_AppleLog_Arri709_V5_33pt.cube",
+    "color_space": "Apple-Log",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 748,
+    "sha256": "87bac92ffa21"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_WarmFilm.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_WarmFilm.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "7e5d4ee65dbc"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_01Glaze.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_01Glaze.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1368,
+    "sha256": "0bc7ab658ec6"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_02Burin.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_02Burin.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1368,
+    "sha256": "a7149620553d"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_03Gilt.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_03Gilt.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1368,
+    "sha256": "54f2b55ca317"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][33pt]_04Viride.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][33pt]_04Viride.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1368,
+    "sha256": "ef90b7f143b8"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_05Clear.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_05Clear.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1368,
+    "sha256": "5ee1811b85dc"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_06Almond.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_06Almond.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1368,
+    "sha256": "8a236521d807"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_07Voile.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_07Voile.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1368,
+    "sha256": "adce6a80048f"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][33pt]_08Arcade.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][33pt]_08Arcade.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1368,
+    "sha256": "ca81e1bd7988"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_09Tinsel.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_09Tinsel.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1368,
+    "sha256": "c8e25f26b193"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_1000nits_HDR-to-SDR.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_1000nits_HDR-to-SDR.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 508,
+    "sha256": "47c8657793f2"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_10Splice.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_10Splice.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1368,
+    "sha256": "29140f773b48"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][33pt]_11Sodium.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][33pt]_11Sodium.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1368,
+    "sha256": "6595d7cf3aa0"
+  },
+  {
+    "filename": "[Rec709-Creative][Monochrome-BW][33pt]_12Argent.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Monochrome-BW][33pt]_12Argent.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Monochrome-BW",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1368,
+    "sha256": "0f38ff748777"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_600nits_HDR-to-SDR.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_600nits_HDR-to-SDR.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 495,
+    "sha256": "562e4f140faf"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_Blackmagic_Broadcast_Film_to_Rec2020_HLG_v4.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_Blackmagic_Broadcast_Film_to_Rec2020_HLG_v4.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1368,
+    "sha256": "b6f3a3772796"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_Bright___Airy_LUT___Free_Light_Clean_Look.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_Bright___Airy_LUT___Free_Light_Clean_Look.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "2c80fae1b2d0"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_Canopy.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_Canopy.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1369,
+    "sha256": "85b3dc4b2990"
+  },
+  {
+    "filename": "[Rec709-Creative][Teal-and-Orange][33pt]_Cinematic_Teal___Orange___Free_Hollywood_LUT.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Teal-and-Orange][33pt]_Cinematic_Teal___Orange___Free_Hollywood_LUT.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Teal-and-Orange",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "9cf30e19ee8c"
+  },
+  {
+    "filename": "[Rec709-Creative][Monochrome-BW][33pt]_Classic_B_W___Free_Black_and_White_LUT.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Monochrome-BW][33pt]_Classic_B_W___Free_Black_and_White_LUT.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Monochrome-BW",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 939,
+    "sha256": "971e77b02e50"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][33pt]_Cool_Blue_Steel___Free_Moody_Cold_LUT.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][33pt]_Cool_Blue_Steel___Free_Moody_Cold_LUT.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "ad9c8ac0b8e5"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_DuskTide.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_DuskTide.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1369,
+    "sha256": "3f43fe2baefe"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_Faded_Kodak_Rec.709_.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_Faded_Kodak_Rec.709_.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "8f18f6508dc3"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_Fieldnote.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_Fieldnote.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1369,
+    "sha256": "ea32f5690d56"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_FotorGear_Kodak_Charmera_Blue_Black.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_FotorGear_Kodak_Charmera_Blue_Black.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 811,
+    "sha256": "06691983ce54"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_FotorGear_Kodak_Charmera_Gray_Black.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_FotorGear_Kodak_Charmera_Gray_Black.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 927,
+    "sha256": "55db07ea1533"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_FotorGear_Kodak_Charmera_Red_Black.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_FotorGear_Kodak_Charmera_Red_Black.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 964,
+    "sha256": "d69cc5432d7e"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_FotorGear_Kodak_Charmera_Yellow_Black.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_FotorGear_Kodak_Charmera_Yellow_Black.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 910,
+    "sha256": "10408afa1b24"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][17pt]_FotorGear_ShunjiIwai_LoveLetter_17pt.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][17pt]_FotorGear_ShunjiIwai_LoveLetter_17pt.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "17x17x17",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 100,
+    "sha256": "b97c6cb0f53b"
+  },
+  {
+    "filename": "[Rec709-Creative][Warm-Golden-Film][33pt]_Heartland.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Warm-Golden-Film][33pt]_Heartland.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Warm-Golden-Film",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1369,
+    "sha256": "ee2b14225ca4"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_High_Contrast___Free_Bold_Cinematic_LUT.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_High_Contrast___Free_Bold_Cinematic_LUT.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "17a22305f53f"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_Kodak_2383_Print_Rec.709_.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_Kodak_2383_Print_Rec.709_.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "fe7f12dab476"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_Lowsun.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_Lowsun.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1369,
+    "sha256": "310626bb7c23"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_Matinee.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_Matinee.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1369,
+    "sha256": "b910b7e37fbd"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_Matte_Fade___Free_Film_Matte_LUT.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_Matte_Fade___Free_Film_Matte_LUT.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "34e5b0b7fbe2"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_Meridian.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_Meridian.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1369,
+    "sha256": "1cf9525a9e4e"
+  },
+  {
+    "filename": "[Rec709-Creative][HK-Neon-Cyberpunk][33pt]_NightMarket.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][HK-Neon-Cyberpunk][33pt]_NightMarket.cube",
+    "color_space": "Rec709-Creative",
+    "style": "HK-Neon-Cyberpunk",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1369,
+    "sha256": "72c24b11795a"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_Portra_400_Rec.709_.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_Portra_400_Rec.709_.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "8eb99d39562c"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_Postcard.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_Postcard.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1369,
+    "sha256": "a3236e384c89"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_Skylight.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_Skylight.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1369,
+    "sha256": "b734146c8a96"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_Soft_Portrait_LUT___Free_Skin-Tone_Safe_Look.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_Soft_Portrait_LUT___Free_Skin-Tone_Safe_Look.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "12c9f1c2d79e"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_Sony_A7III_HLG3_BT2020_To_Rec709_Filmic.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_Sony_A7III_HLG3_BT2020_To_Rec709_Filmic.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "3607de7761f4"
+  },
+  {
+    "filename": "[Rec709-Creative][Technical-Conversion][33pt]_Sony_A7III_HLG3_BT2020_To_Rec709_Standard.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Technical-Conversion][33pt]_Sony_A7III_HLG3_BT2020_To_Rec709_Standard.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "654af107035a"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_Sony_A7IV_HLG3_BT2020_To_Rec709_Filmic.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_Sony_A7IV_HLG3_BT2020_To_Rec709_Filmic.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "914a766b5bd8"
+  },
+  {
+    "filename": "[Rec709-Creative][Technical-Conversion][33pt]_Sony_A7IV_HLG3_BT2020_To_Rec709_Standard.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Technical-Conversion][33pt]_Sony_A7IV_HLG3_BT2020_To_Rec709_Standard.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "b8b6969371a2"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_Sony_FX_A7V_HLG3_BT2020_Standard.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_Sony_FX_A7V_HLG3_BT2020_Standard.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "713e216ebbd1"
+  },
+  {
+    "filename": "[Rec709-Creative][Warm-Golden-Film][33pt]_The_Cinema_.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Warm-Golden-Film][33pt]_The_Cinema_.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Warm-Golden-Film",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 901,
+    "sha256": "ecf95a621fed"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_The_Cinema_Blue.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_The_Cinema_Blue.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 945,
+    "sha256": "ca792eb9846b"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_The_Cinema_Cool.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_The_Cinema_Cool.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 881,
+    "sha256": "7a63fa70e4c2"
+  },
+  {
+    "filename": "[Rec709-Creative][Warm-Golden-Film][33pt]_The_Cinema_Green.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Warm-Golden-Film][33pt]_The_Cinema_Green.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Warm-Golden-Film",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "b3648dd6a529"
+  },
+  {
+    "filename": "[Rec709-Creative][Monochrome-BW][33pt]_The_Cinema_Noir.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Monochrome-BW][33pt]_The_Cinema_Noir.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Monochrome-BW",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 941,
+    "sha256": "c5e3e57e4ded"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_The_Cinema_Purple.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_The_Cinema_Purple.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "2a889eedaad5"
+  },
+  {
+    "filename": "[Rec709-Creative][Warm-Golden-Film][33pt]_The_Cinema.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Warm-Golden-Film][33pt]_The_Cinema.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Warm-Golden-Film",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 952,
+    "sha256": "902e234ff4ef"
+  },
+  {
+    "filename": "[Rec709-Creative][Monochrome-BW][33pt]_The_Dust.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Monochrome-BW][33pt]_The_Dust.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Monochrome-BW",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 935,
+    "sha256": "d3e9695ec95c"
+  },
+  {
+    "filename": "[Rec709-Creative][Warm-Golden-Film][33pt]_Warm_Golden_Hour___Free_Cinematic_Warm_LUT.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Warm-Golden-Film][33pt]_Warm_Golden_Hour___Free_Cinematic_Warm_LUT.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Warm-Golden-Film",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "8edf7099e72f"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_classic_neg.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_classic_neg.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 982,
+    "sha256": "c9a50815e128"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_ektar_100_endura_premier.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_ektar_100_endura_premier.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1052,
+    "sha256": "e2ecc4986b3f"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji_natura_1600_ca_dpii.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji_natura_1600_ca_dpii.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1052,
+    "sha256": "263792ff3c34"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][33pt]_gold_200_endura_premier.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][33pt]_gold_200_endura_premier.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1052,
+    "sha256": "f7d4bc3b8f81"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_nostalgic_neg_composed.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_nostalgic_neg_composed.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "945eaaa572e5"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_portra_400_endura_premier.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_portra_400_endura_premier.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1052,
+    "sha256": "aea5a2aad146"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_portra_800_endura_premier.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_portra_800_endura_premier.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1052,
+    "sha256": "9ea65a54fb18"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][33pt]_slay-02-fade.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][33pt]_slay-02-fade.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "0fc029d88a11"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_slay-05-portrait.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_slay-05-portrait.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "432898146d41"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_trix_400_polymax_grade_2.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_trix_400_polymax_grade_2.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1052,
+    "sha256": "b18bb79af811"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_vision3_250d_2383.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_vision3_250d_2383.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1052,
+    "sha256": "bca1057be8d2"
+  },
+  {
+    "filename": "[Rec709-Creative][HK-Neon-Cyberpunk][33pt]_Cyberpunk_Neon_Rec.709_.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][HK-Neon-Cyberpunk][33pt]_Cyberpunk_Neon_Rec.709_.cube",
+    "color_space": "Rec709-Creative",
+    "style": "HK-Neon-Cyberpunk",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "11279e1b0e7c"
+  },
+  {
+    "filename": "[Apple-Log-2][Film-Stock-Emulation][33pt]_GuVue_F11_Kodak_250D_Cinema_AppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Film-Stock-Emulation][33pt]_GuVue_F11_Kodak_250D_Cinema_AppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 948,
+    "sha256": "a6d636592181"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_GuVue_F11_Kodak_250D_Cinema_Rec709.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_GuVue_F11_Kodak_250D_Cinema_Rec709.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 948,
+    "sha256": "19738034546c"
+  },
+  {
+    "filename": "[Apple-Log-2][Film-Stock-Emulation][33pt]_GuVue_F12_Kodak_Ektar_Daylight_AppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Film-Stock-Emulation][33pt]_GuVue_F12_Kodak_Ektar_Daylight_AppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 948,
+    "sha256": "934948ab5c93"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_GuVue_F12_Kodak_Ektar_Daylight_Rec709.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_GuVue_F12_Kodak_Ektar_Daylight_Rec709.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 948,
+    "sha256": "c3caeedf858c"
+  },
+  {
+    "filename": "[Apple-Log-2][Film-Stock-Emulation][33pt]_GuVue_F13_Kodak_P800_Documentary_AppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Film-Stock-Emulation][33pt]_GuVue_F13_Kodak_P800_Documentary_AppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 948,
+    "sha256": "3d10b6c5e10f"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_GuVue_F13_Kodak_P800_Documentary_Rec709.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_GuVue_F13_Kodak_P800_Documentary_Rec709.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 948,
+    "sha256": "8a4c2139ce6b"
+  },
+  {
+    "filename": "[Apple-Log-2][HK-Neon-Cyberpunk][33pt]_GuVue_F14_Lomo92_Vintage_AppleLog2.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][HK-Neon-Cyberpunk][33pt]_GuVue_F14_Lomo92_Vintage_AppleLog2.cube",
+    "color_space": "Apple-Log-2",
+    "style": "HK-Neon-Cyberpunk",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 948,
+    "sha256": "13a1226aea38"
+  },
+  {
+    "filename": "[Rec709-Creative][HK-Neon-Cyberpunk][33pt]_GuVue_F14_Lomo92_Vintage_Rec709.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][HK-Neon-Cyberpunk][33pt]_GuVue_F14_Lomo92_Vintage_Rec709.cube",
+    "color_space": "Rec709-Creative",
+    "style": "HK-Neon-Cyberpunk",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 948,
+    "sha256": "aa615ae195fe"
+  },
+  {
+    "filename": "[Rec709-Creative][HK-Neon-Cyberpunk][33pt]_HK01_Match_slay-01-amber.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][HK-Neon-Cyberpunk][33pt]_HK01_Match_slay-01-amber.cube",
+    "color_space": "Rec709-Creative",
+    "style": "HK-Neon-Cyberpunk",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "5912a5761bb9"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_HK02_Match_fuji_pro_400h_pale_green.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_HK02_Match_fuji_pro_400h_pale_green.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1052,
+    "sha256": "30addbbfee94"
+  },
+  {
+    "filename": "[Rec709-Creative][Teal-and-Orange][33pt]_HK03_Match_slay-04-harbor_teal_film.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Teal-and-Orange][33pt]_HK03_Match_slay-04-harbor_teal_film.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Teal-and-Orange",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "d846f24a0ce3"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_HK04_Match_vision3_500t_2383_cyan.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_HK04_Match_vision3_500t_2383_cyan.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1052,
+    "sha256": "c2f1975923fd"
+  },
+  {
+    "filename": "[Rec709-Creative][HK-Neon-Cyberpunk][33pt]_HK06_Match_slay-03-mong_kok_neon.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][HK-Neon-Cyberpunk][33pt]_HK06_Match_slay-03-mong_kok_neon.cube",
+    "color_space": "Rec709-Creative",
+    "style": "HK-Neon-Cyberpunk",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "07ac89f666c7"
+  },
+  {
+    "filename": "[Rec709-Creative][Teal-and-Orange][33pt]_Moody_Cinematic_Dark_Teal_Rec.709_.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Teal-and-Orange][33pt]_Moody_Cinematic_Dark_Teal_Rec.709_.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Teal-and-Orange",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "2ce6f46d3fc2"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][33pt]_BLUSH.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][33pt]_BLUSH.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "04db4c8880b8"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_C-8120-LOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_C-8120-LOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "2335121d89ae"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][33pt]_C-8120-STD.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][33pt]_C-8120-STD.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "daabc9e48d39"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_C-9730-LOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_C-9730-LOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "28de5a1a0cfa"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][33pt]_C-9730-STD.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][33pt]_C-9730-STD.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "2d7f088c092b"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_CHILLY.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_CHILLY.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "127bf5a5bb3a"
+  },
+  {
+    "filename": "[Rec709-Creative][Technical-Conversion][33pt]_Cinema_Base_Rec709_optimized_V2.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Technical-Conversion][33pt]_Cinema_Base_Rec709_optimized_V2.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "ec4af376aafd"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_DREAMY.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_DREAMY.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "c621c6bc17bd"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_F-6800-LOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_F-6800-LOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "572003ac3df0"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][33pt]_F-6800-STD.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][33pt]_F-6800-STD.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "0f09462fbb0c"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_F-8700-LOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_F-8700-LOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "6e41dbb60b9e"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][33pt]_F-8700-STD.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][33pt]_F-8700-STD.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "b9366ecd99b6"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_F-8700-V2-LOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_F-8700-V2-LOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "c22c06ea0455"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][33pt]_F-8700-V2-STD.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][33pt]_F-8700-V2-STD.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "b3f08e66cac3"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__blue_inversion_curve_fun.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__blue_inversion_curve_fun.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "17x17x17",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 129,
+    "sha256": "296fe8d092e4"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__bubblegum_dream.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__bubblegum_dream.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "17x17x17",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 129,
+    "sha256": "3529c8260277"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__curve_bump.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__curve_bump.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "17x17x17",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 129,
+    "sha256": "715703c2aa8a"
+  },
+  {
+    "filename": "[Rec709-Creative][Warm-Golden-Film][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__dynamic_saturated.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Warm-Golden-Film][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__dynamic_saturated.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Warm-Golden-Film",
+    "grid_size": "17x17x17",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 129,
+    "sha256": "111d51b57f16"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__high_contrast.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__high_contrast.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "17x17x17",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 129,
+    "sha256": "f95122a0ec99"
+  },
+  {
+    "filename": "[Rec709-Creative][Green-Editorial-HK][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__life_is_a_lemon.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Green-Editorial-HK][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__life_is_a_lemon.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Green-Editorial-HK",
+    "grid_size": "17x17x17",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 129,
+    "sha256": "2b87d6a73026"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__only_blue.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__only_blue.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "17x17x17",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 129,
+    "sha256": "84494e3e13bf"
+  },
+  {
+    "filename": "[Rec709-Creative][Green-Editorial-HK][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__only_green.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Green-Editorial-HK][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__only_green.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Green-Editorial-HK",
+    "grid_size": "17x17x17",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 129,
+    "sha256": "5957f2cc738f"
+  },
+  {
+    "filename": "[Rec709-Creative][Warm-Golden-Film][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__only_red.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Warm-Golden-Film][17pt]_GH_o-l-l-i__ComfyUI-OlmLUT__only_red.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Warm-Golden-Film",
+    "grid_size": "17x17x17",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 129,
+    "sha256": "8ada41e7c352"
+  },
+  {
+    "filename": "[Rec709-Creative][Teal-and-Orange][33pt]_Green_turned_orange_back_to_green.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Teal-and-Orange][33pt]_Green_turned_orange_back_to_green.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Teal-and-Orange",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "426ba68c66e0"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cyberpunk-Magenta][33pt]_H-9110-LOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cyberpunk-Magenta][33pt]_H-9110-LOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "65c77f375d9b"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][33pt]_H-9110-STD.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][33pt]_H-9110-STD.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "4fa26eacf89f"
+  },
+  {
+    "filename": "[Rec709-Creative][Warm-Golden-Film][33pt]_HF_NeoGraph__Luts_Cube__LBK-K-Tone_33.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Warm-Golden-Film][33pt]_HF_NeoGraph__Luts_Cube__LBK-K-Tone_33.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Warm-Golden-Film",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1014,
+    "sha256": "d1fc058bfa1e"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_IWLTBAP_Arapaho_-_LOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_IWLTBAP_Arapaho_-_LOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 865,
+    "sha256": "a24fedbc0a46"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_IWLTBAP_Arapaho_-_Standard.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_IWLTBAP_Arapaho_-_Standard.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 874,
+    "sha256": "d3983b6db2ca"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Green-Editorial-HK][33pt]_IWLTBAP_Humble_-_LOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Green-Editorial-HK][33pt]_IWLTBAP_Humble_-_LOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Green-Editorial-HK",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "e4a8182a6024"
+  },
+  {
+    "filename": "[Rec709-Creative][Green-Editorial-HK][33pt]_IWLTBAP_Humble_-_Standard.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Green-Editorial-HK][33pt]_IWLTBAP_Humble_-_Standard.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Green-Editorial-HK",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "e167c1bede04"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][33pt]_MOONLIT.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][33pt]_MOONLIT.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "fe0260c424b0"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_SUNSHINE.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_SUNSHINE.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "f31552b952bf"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_TOASTY.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_TOASTY.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "b9cb0e9fe680"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][33pt]_U-9091-RTL.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][33pt]_U-9091-RTL.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "dce60145eeb8"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_W-8370-LOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_W-8370-LOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "c9c817e50630"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_W-8370-STD.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_W-8370-STD.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "d74ee09de157"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_X-6500-LOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_X-6500-LOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "554bccb6ac0d"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_X-6500-STD.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_X-6500-STD.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "c27bc2c499b7"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_X-9400-LOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_X-9400-LOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "a339498e8eef"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][33pt]_X-9400-STD.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][33pt]_X-9400-STD.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "29e4dd739f0b"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][33pt]_ZESTY.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][33pt]_ZESTY.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "a532ce052a47"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_cinestill-400d.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_cinestill-400d.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "fdeffcc07998"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][33pt]_cinestill-50d.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][33pt]_cinestill-50d.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "e6ded0d627b9"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][33pt]_cinestill-800t.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][33pt]_cinestill-800t.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "e880cb3b59d5"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji-acros-100-ii.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji-acros-100-ii.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "6f7550ac18d6"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji-industrial-100.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji-industrial-100.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "64f047a8db87"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji-pro-400h.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji-pro-400h.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "b5dd772fff8d"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji-provia-100f.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji-provia-100f.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "7ae1cd62b539"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji-superia-xtra-400.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji-superia-xtra-400.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "36aff3ef9071"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji-velvia-100.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji-velvia-100.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "41eec9c5ecfd"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji-velvia-50.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_fuji-velvia-50.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "3d7a2d7f586a"
+  },
+  {
+    "filename": "[Rec709-Creative][Monochrome-BW][33pt]_ilford-delta-100-v2.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Monochrome-BW][33pt]_ilford-delta-100-v2.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Monochrome-BW",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "49308c3f5942"
+  },
+  {
+    "filename": "[Rec709-Creative][Monochrome-BW][33pt]_ilford-delta-3200-v2.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Monochrome-BW][33pt]_ilford-delta-3200-v2.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Monochrome-BW",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "89c93a45f685"
+  },
+  {
+    "filename": "[Rec709-Creative][Monochrome-BW][33pt]_ilford-delta-400.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Monochrome-BW][33pt]_ilford-delta-400.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Monochrome-BW",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "d44e5bc73cd3"
+  },
+  {
+    "filename": "[Rec709-Creative][Monochrome-BW][33pt]_ilford-fp4-125-v2.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Monochrome-BW][33pt]_ilford-fp4-125-v2.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Monochrome-BW",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "5e6060740c98"
+  },
+  {
+    "filename": "[Rec709-Creative][Monochrome-BW][33pt]_ilford-hp5-400-v2.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Monochrome-BW][33pt]_ilford-hp5-400-v2.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Monochrome-BW",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "7cab9e01d5d6"
+  },
+  {
+    "filename": "[Rec709-Creative][Monochrome-BW][33pt]_ilford-panf-50.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Monochrome-BW][33pt]_ilford-panf-50.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Monochrome-BW",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "ee7106e939d3"
+  },
+  {
+    "filename": "[Rec709-Creative][Monochrome-BW][33pt]_ilford-xp2-super-400.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Monochrome-BW][33pt]_ilford-xp2-super-400.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Monochrome-BW",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "bd182b6dae1c"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-colorplus-200.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-colorplus-200.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "4a2bda2f149f"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-double-x-v2.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-double-x-v2.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "04ca1b49b272"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-ektachrome-e100.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-ektachrome-e100.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "17fe6bf23e43"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-ektar-100.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-ektar-100.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "fdbb746bd531"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-gold-200.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-gold-200.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "493962ab7840"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-portra-160.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-portra-160.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "4aed280d6bdc"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-portra-400.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-portra-400.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "aaf732dd2e9f"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-portra-800.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-portra-800.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "c6732394defa"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-tmax-100-v2.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-tmax-100-v2.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "475d562bd5bd"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-tmax-400-v2.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-tmax-400-v2.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "24c6dd625b00"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-tmax-p3200.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-tmax-p3200.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "5be21f953d2f"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-trix-400-v2.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-trix-400-v2.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "fe328c548a49"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-ultramax-400.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_kodak-ultramax-400.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "2c27cc9f5657"
+  },
+  {
+    "filename": "[Apple-Log-2][Technical-Conversion][65pt]_32_Luma_Dune___Apple_Log_2_to_Rec.709_v1.0__65pt_Desktop_Contro.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Technical-Conversion][65pt]_32_Luma_Dune___Apple_Log_2_to_Rec.709_v1.0__65pt_Desktop_Contro.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Technical-Conversion",
+    "grid_size": "65x65x65",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 12336,
+    "sha256": "9f38f0c28abb"
+  },
+  {
+    "filename": "[Apple-Log][Technical-Conversion][65pt]_33_Luma_Dune___Apple_Log_to_Rec.709_v1.0__65pt_Desktop_Control_.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Technical-Conversion][65pt]_33_Luma_Dune___Apple_Log_to_Rec.709_v1.0__65pt_Desktop_Control_.cube",
+    "color_space": "Apple-Log",
+    "style": "Technical-Conversion",
+    "grid_size": "65x65x65",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 12336,
+    "sha256": "a2080a4e4be9"
+  },
+  {
+    "filename": "[Apple-Log-2][Technical-Conversion][65pt]_34_Rodrigo_Polo___Apple_Log_2_to_Rec.709__65pt_Desktop_Control_.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Technical-Conversion][65pt]_34_Rodrigo_Polo___Apple_Log_2_to_Rec.709__65pt_Desktop_Control_.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Technical-Conversion",
+    "grid_size": "65x65x65",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 5137,
+    "sha256": "e11e6ed2cb94"
+  },
+  {
+    "filename": "[Apple-Log-2][Technical-Conversion][65pt]_BMAppleLog2to70965.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Technical-Conversion][65pt]_BMAppleLog2to70965.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Technical-Conversion",
+    "grid_size": "65x65x65",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 7241,
+    "sha256": "e9322533af67"
+  },
+  {
+    "filename": "[Apple-Log][Technical-Conversion][65pt]_BMAppleLogto70965.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Technical-Conversion][65pt]_BMAppleLogto70965.cube",
+    "color_space": "Apple-Log",
+    "style": "Technical-Conversion",
+    "grid_size": "65x65x65",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 7241,
+    "sha256": "2c9e63a1496c"
+  },
+  {
+    "filename": "[Apple-Log-2][Cinematic-Balanced][65pt]_BMSoftDocAppleLog265.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cinematic-Balanced][65pt]_BMSoftDocAppleLog265.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cinematic-Balanced",
+    "grid_size": "65x65x65",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 7241,
+    "sha256": "fe544ad713d3"
+  },
+  {
+    "filename": "[Apple-Log][Cinematic-Balanced][65pt]_BMSoftDocAppleLog65.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Cinematic-Balanced][65pt]_BMSoftDocAppleLog65.cube",
+    "color_space": "Apple-Log",
+    "style": "Cinematic-Balanced",
+    "grid_size": "65x65x65",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 7241,
+    "sha256": "b19c5c5b8114"
+  },
+  {
+    "filename": "[Apple-Log][Cyberpunk-Magenta][65pt]_Byronvini_AppleLog.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Cyberpunk-Magenta][65pt]_Byronvini_AppleLog.cube",
+    "color_space": "Apple-Log",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "65x65x65",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 6423,
+    "sha256": "4bb82d1d5002"
+  },
+  {
+    "filename": "[Desktop-65pt][Technical-Conversion][65pt]_Rec.709_Conversion.cube",
+    "path": "luts/5_Desktop_Mastering_65pt/[Desktop-65pt][Technical-Conversion][65pt]_Rec.709_Conversion.cube",
+    "color_space": "Desktop-65pt",
+    "style": "Technical-Conversion",
+    "grid_size": "65x65x65",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 7241,
+    "sha256": "3b4503fe9ca4"
+  },
+  {
+    "filename": "[Desktop-65pt][Technical-Conversion][65pt]_nopixels_net_hlg2020_to_rec709.cube",
+    "path": "luts/5_Desktop_Mastering_65pt/[Desktop-65pt][Technical-Conversion][65pt]_nopixels_net_hlg2020_to_rec709.cube",
+    "color_space": "Desktop-65pt",
+    "style": "Technical-Conversion",
+    "grid_size": "65x65x65",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 5726,
+    "sha256": "f7938ecf2ec8"
+  },
+  {
+    "filename": "[Apple-Log-2][Technical-Conversion][65pt]_OtherProResRAW_AppleLog2_to_Rec709_65_Grid.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Technical-Conversion][65pt]_OtherProResRAW_AppleLog2_to_Rec709_65_Grid.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Technical-Conversion",
+    "grid_size": "65x65x65",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 4602,
+    "sha256": "0dd31312e956"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Technical-Conversion][33pt]_GH_Sooodx__live-photo-tool__LogC_to_Rec709.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Technical-Conversion][33pt]_GH_Sooodx__live-photo-tool__LogC_to_Rec709.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "b3674842367d"
+  },
+  {
+    "filename": "[Apple-Log-2][Technical-Conversion][33pt]_GH_Sooodx__live-photo-tool__SLog2_to_S709.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Technical-Conversion][33pt]_GH_Sooodx__live-photo-tool__SLog2_to_S709.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "9da853992bd4"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Technical-Conversion][33pt]_GH_Sooodx__live-photo-tool__SLog3_to_S709.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Technical-Conversion][33pt]_GH_Sooodx__live-photo-tool__SLog3_to_S709.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "7113cd8c2272"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Technical-Conversion][33pt]_GH_Sooodx__live-photo-tool__VLog_to_V709.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Technical-Conversion][33pt]_GH_Sooodx__live-photo-tool__VLog_to_V709.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "62a33628b9e9"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Technical-Conversion][33pt]_GH_Sooodx__live-photo-tool__VLog_to_V709_Cool.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Technical-Conversion][33pt]_GH_Sooodx__live-photo-tool__VLog_to_V709_Cool.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "e27399462cd2"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Technical-Conversion][33pt]_GH_Sooodx__live-photo-tool__VLog_to_V709_Warm.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Technical-Conversion][33pt]_GH_Sooodx__live-photo-tool__VLog_to_V709_Warm.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "88f61bc5b18d"
+  },
+  {
+    "filename": "[Apple-Log][Film-Stock-Emulation][33pt]_GH_jfmayeda__FilmFeel__AppleLogToLin-v1.0.cube",
+    "path": "luts/2_Apple_Log_Original/[Apple-Log][Film-Stock-Emulation][33pt]_GH_jfmayeda__FilmFeel__AppleLogToLin-v1.0.cube",
+    "color_space": "Apple-Log",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 182,
+    "sha256": "e114c5823546"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][33pt]_GH_lemonadesaltbagel__GR4-LUTSmith__film-1d.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][33pt]_GH_lemonadesaltbagel__GR4-LUTSmith__film-1d.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 27,
+    "sha256": "9a5355d99854"
+  },
+  {
+    "filename": "[Desktop-65pt][Cool-Cyan-Neon][64pt]_GH_o-l-l-i__ComfyUI-OlmLUT__retro_vibes.cube",
+    "path": "luts/5_Desktop_Mastering_65pt/[Desktop-65pt][Cool-Cyan-Neon][64pt]_GH_o-l-l-i__ComfyUI-OlmLUT__retro_vibes.cube",
+    "color_space": "Desktop-65pt",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "64x64x64",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 6912,
+    "sha256": "4531187ade08"
+  },
+  {
+    "filename": "[Desktop-65pt][Monochrome-BW][64pt]_GH_o-l-l-i__ComfyUI-OlmLUT__stylized_monochrome.cube",
+    "path": "luts/5_Desktop_Mastering_65pt/[Desktop-65pt][Monochrome-BW][64pt]_GH_o-l-l-i__ComfyUI-OlmLUT__stylized_monochrome.cube",
+    "color_space": "Desktop-65pt",
+    "style": "Monochrome-BW",
+    "grid_size": "64x64x64",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 6912,
+    "sha256": "3abc0201956e"
+  },
+  {
+    "filename": "[Desktop-65pt][Cyberpunk-Magenta][64pt]_GH_o-l-l-i__ComfyUI-OlmLUT__toxic_sludge.cube",
+    "path": "luts/5_Desktop_Mastering_65pt/[Desktop-65pt][Cyberpunk-Magenta][64pt]_GH_o-l-l-i__ComfyUI-OlmLUT__toxic_sludge.cube",
+    "color_space": "Desktop-65pt",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "64x64x64",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 6912,
+    "sha256": "f717e4678a75"
+  },
+  {
+    "filename": "[Desktop-65pt][Cyberpunk-Magenta][64pt]_GH_o-l-l-i__ComfyUI-OlmLUT__vibrant_candy.cube",
+    "path": "luts/5_Desktop_Mastering_65pt/[Desktop-65pt][Cyberpunk-Magenta][64pt]_GH_o-l-l-i__ComfyUI-OlmLUT__vibrant_candy.cube",
+    "color_space": "Desktop-65pt",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "64x64x64",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 6912,
+    "sha256": "6f8891079010"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Arabica_12.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Arabica_12.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "fe8d63fc326c"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Ava_614.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Ava_614.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "7c909ae178fb"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Azrael_93.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Azrael_93.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "b9ee1a6ed729"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Bourbon_64.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Bourbon_64.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "4be6adb63f6d"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Byers_11.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Byers_11.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "a17d18b3b97d"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Chemical_168.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Chemical_168.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "c985bcfb12a8"
+  },
+  {
+    "filename": "[Rec709-Creative][Monochrome-BW][32pt]_HF_NeoGraph__Luts_Cube__Clayton_33.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Monochrome-BW][32pt]_HF_NeoGraph__Luts_Cube__Clayton_33.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Monochrome-BW",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "a2cb244bed47"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][32pt]_HF_NeoGraph__Luts_Cube__Clouseau_54.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][32pt]_HF_NeoGraph__Luts_Cube__Clouseau_54.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "9259e5ab8a4d"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Cobi_3.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Cobi_3.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "77a850e2e16f"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Contrail_35.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Contrail_35.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "c147801dd7e4"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Cubicle_99.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Cubicle_99.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "514eac4b0361"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Django_25.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Django_25.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "415f6b00f34a"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Domingo_145.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Domingo_145.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "1542265e521f"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][25pt]_HF_NeoGraph__Luts_Cube__FGCineBasic.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][25pt]_HF_NeoGraph__Luts_Cube__FGCineBasic.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "25x25x25",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 412,
+    "sha256": "a3bd77ea67c7"
+  },
+  {
+    "filename": "[Rec709-Creative][Warm-Golden-Film][25pt]_HF_NeoGraph__Luts_Cube__FGCineBright.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Warm-Golden-Film][25pt]_HF_NeoGraph__Luts_Cube__FGCineBright.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Warm-Golden-Film",
+    "grid_size": "25x25x25",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 412,
+    "sha256": "2576b0601be4"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][25pt]_HF_NeoGraph__Luts_Cube__FGCineCold.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][25pt]_HF_NeoGraph__Luts_Cube__FGCineCold.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "25x25x25",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 412,
+    "sha256": "bf21705eb630"
+  },
+  {
+    "filename": "[Rec709-Creative][Warm-Golden-Film][25pt]_HF_NeoGraph__Luts_Cube__FGCineDrama.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Warm-Golden-Film][25pt]_HF_NeoGraph__Luts_Cube__FGCineDrama.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Warm-Golden-Film",
+    "grid_size": "25x25x25",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 412,
+    "sha256": "7f2310f219b9"
+  },
+  {
+    "filename": "[Rec709-Creative][Teal-and-Orange][25pt]_HF_NeoGraph__Luts_Cube__FGCineTealOrange1.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Teal-and-Orange][25pt]_HF_NeoGraph__Luts_Cube__FGCineTealOrange1.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Teal-and-Orange",
+    "grid_size": "25x25x25",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 412,
+    "sha256": "5d14eea3288e"
+  },
+  {
+    "filename": "[Rec709-Creative][Teal-and-Orange][25pt]_HF_NeoGraph__Luts_Cube__FGCineTealOrange2.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Teal-and-Orange][25pt]_HF_NeoGraph__Luts_Cube__FGCineTealOrange2.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Teal-and-Orange",
+    "grid_size": "25x25x25",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 412,
+    "sha256": "56a1e534590c"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][25pt]_HF_NeoGraph__Luts_Cube__FGCineVibrant.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][25pt]_HF_NeoGraph__Luts_Cube__FGCineVibrant.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "25x25x25",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 412,
+    "sha256": "407ff81ca60c"
+  },
+  {
+    "filename": "[Rec709-Creative][Warm-Golden-Film][25pt]_HF_NeoGraph__Luts_Cube__FGCineWarm.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Warm-Golden-Film][25pt]_HF_NeoGraph__Luts_Cube__FGCineWarm.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Warm-Golden-Film",
+    "grid_size": "25x25x25",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 412,
+    "sha256": "8207f20f3da9"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Faded_47.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Faded_47.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "058c2646464a"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Folger_50.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Folger_50.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "087ae7c26dd9"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Fusion_88.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Fusion_88.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "5bc256c11799"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][32pt]_HF_NeoGraph__Luts_Cube__Hyla_68.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][32pt]_HF_NeoGraph__Luts_Cube__Hyla_68.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "31c928694400"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Korben_214.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Korben_214.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "fdd7a2b33e24"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][32pt]_HF_NeoGraph__Luts_Cube__Lenox_340.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][32pt]_HF_NeoGraph__Luts_Cube__Lenox_340.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "e47d0d9a2b72"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][32pt]_HF_NeoGraph__Luts_Cube__Lucky_64.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][32pt]_HF_NeoGraph__Luts_Cube__Lucky_64.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "fd45ad934a4d"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][32pt]_HF_NeoGraph__Luts_Cube__McKinnon_75.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][32pt]_HF_NeoGraph__Luts_Cube__McKinnon_75.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "72f6c2c643eb"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Milo_5.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Milo_5.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "d6d12b9b89d9"
+  },
+  {
+    "filename": "[Rec709-Creative][HK-Neon-Cyberpunk][32pt]_HF_NeoGraph__Luts_Cube__Neon_770.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][HK-Neon-Cyberpunk][32pt]_HF_NeoGraph__Luts_Cube__Neon_770.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "HK-Neon-Cyberpunk",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "6dfa2f4cd556"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Paladin_1875.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Paladin_1875.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "f583aeb686a4"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Pasadena_21.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Pasadena_21.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "14b9eb941dc9"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Pitaya_15.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Pitaya_15.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "3015bacc10ec"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Reeve_38.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Reeve_38.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "84b69973fe4e"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][32pt]_HF_NeoGraph__Luts_Cube__Remy_24.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][32pt]_HF_NeoGraph__Luts_Cube__Remy_24.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "538d199fdb03"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Sprocket_231.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Sprocket_231.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "80ab18256216"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Teigen_28.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Teigen_28.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "1cbdb5e32bba"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Trent_18.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Trent_18.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "448dd830e1bd"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Tweed_71.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Tweed_71.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "406dc2122966"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Vireo_37.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Vireo_37.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "b413a88e13c8"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Zed_32.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_NeoGraph__Luts_Cube__Zed_32.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "1bf9c728e24f"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Zeke_39.CUBE",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_HF_NeoGraph__Luts_Cube__Zeke_39.CUBE",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "e57b1f2d0856"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_Tenofas__ComfyUI__Agfa_Ultra_100.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_Tenofas__ComfyUI__Agfa_Ultra_100.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "c8fd5b098153"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][32pt]_HF_Tenofas__ComfyUI__Fuji_Astia.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][32pt]_HF_Tenofas__ComfyUI__Fuji_Astia.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "8e52b269ca7d"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][32pt]_HF_Tenofas__ComfyUI__Fuji_Provia.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][32pt]_HF_Tenofas__ComfyUI__Fuji_Provia.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "b1af5684f729"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_Tenofas__ComfyUI__Kodacrome.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_HF_Tenofas__ComfyUI__Kodacrome.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "480ec350c96d"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][32pt]_HF_Tenofas__ComfyUI__Lomography.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][32pt]_HF_Tenofas__ComfyUI__Lomography.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "9c20de79ce67"
+  },
+  {
+    "filename": "[Rec709-Creative][Film-Stock-Emulation][32pt]_HF_Tenofas__ComfyUI__Portra_800.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Film-Stock-Emulation][32pt]_HF_Tenofas__ComfyUI__Portra_800.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "3243ace857ff"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_HF_Tenofas__ComfyUI__Velvia_100.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_HF_Tenofas__ComfyUI__Velvia_100.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "33b0d673aef5"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_C-8120-VLOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_C-8120-VLOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "caad967b9650"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_C-9730-VLOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_C-9730-VLOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "5d50dfb61b8f"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_F-6800-VLOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_F-6800-VLOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "5b96f2d4da2b"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_F-8700-V2-VLOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_F-8700-V2-VLOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "57fe8c872a75"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_F-8700-VLOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_F-8700-VLOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "b02f8a535afe"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cyberpunk-Magenta][33pt]_H-9110-VLOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cyberpunk-Magenta][33pt]_H-9110-VLOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "b9e6c26f5c39"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_W-8370-VLOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_W-8370-VLOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "271a06fd10df"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_X-6500-VLOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_X-6500-VLOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "fa842a170954"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_X-9400-VLOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cool-Cyan-Neon][33pt]_X-9400-VLOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "d180641caea6"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-ALEXA-LOG-C-V1-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-ALEXA-LOG-C-V1-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "b9d2ce31aba8"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-ALEXA-LOG-C-V2-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-ALEXA-LOG-C-V2-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "b88ad76a9f05"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-ALEXA-LOG-C-V3-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-ALEXA-LOG-C-V3-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "6478dcaf1dda"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-ALEXA-LOG-C-V4-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-ALEXA-LOG-C-V4-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "0725e2392b22"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-ALEXA-LOG-C-V5-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-ALEXA-LOG-C-V5-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "5e7bfc5512a3"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-4K-ALEXA-LOG-C-LTL.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-4K-ALEXA-LOG-C-LTL.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "96b70736404c"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-BMCC-V1-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-BMCC-V1-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "e36d4828f0d0"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-BMCC-V2-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-BMCC-V2-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "adddad0a51ac"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-BMPC-V1-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-BMPC-V1-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "23ea6ef98881"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-BMPC-V2-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-BMPC-V2-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "2d78ee091b41"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][33pt]_U-BMDFILM-BMPCC4K-V1-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][33pt]_U-BMDFILM-BMPCC4K-V1-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "ac65f1037ea4"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-BMPCC-V1-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-BMPCC-V1-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "34cffd49b1aa"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-BMPCC-V2-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-BMPCC-V2-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "adc4a83397bf"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-BMPCC-V3-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-BMPCC-V3-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "687e57f6f952"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][33pt]_U-BMDFILM-URSA-46K-V1-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][33pt]_U-BMDFILM-URSA-46K-V1-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "9f5cacf8d249"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][33pt]_U-BMDFILM-URSA-46K-V2-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][33pt]_U-BMDFILM-URSA-46K-V2-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "31f33458e37e"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-URSA-V1-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-URSA-V1-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "450bcacc2c9b"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-URSA-V2-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-URSA-V2-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "bb99adcd874c"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-URSA-V3-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-BMDFILM-URSA-V3-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "e10ee8ff3d40"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-CANON-C-LOG-V1-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-CANON-C-LOG-V1-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "3e2119fa448b"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-CANON-C-LOG-V2-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-CANON-C-LOG-V2-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "5d354015f50b"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-CANON-C-LOG-V3-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-CANON-C-LOG-V3-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "9ffb9265ae3a"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-CANON-C-LOG-V4-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-CANON-C-LOG-V4-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "d653fd3e0feb"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-CANON-C-LOG-V5-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-CANON-C-LOG-V5-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "f912811f06cc"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Technical-Conversion][33pt]_DJI_D-Log_M_to_Rec709_Beta_.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Technical-Conversion][33pt]_DJI_D-Log_M_to_Rec709_Beta_.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "388f14737bbf"
+  },
+  {
+    "filename": "[Apple-Log-2][Technical-Conversion][33pt]_DJI_Phantom4_DLOG2Rec709.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Technical-Conversion][33pt]_DJI_Phantom4_DLOG2Rec709.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 682,
+    "sha256": "6976484adb12"
+  },
+  {
+    "filename": "[Apple-Log-2][Cyberpunk-Magenta][33pt]_DJI_Phantom4_DLOG2sRGB.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cyberpunk-Magenta][33pt]_DJI_Phantom4_DLOG2sRGB.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 681,
+    "sha256": "4b0e111631d5"
+  },
+  {
+    "filename": "[Apple-Log-2][Cyberpunk-Magenta][33pt]_DJI_Phantom4_DLOG2sRGB_Improv.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cyberpunk-Magenta][33pt]_DJI_Phantom4_DLOG2sRGB_Improv.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 692,
+    "sha256": "75359d73d2a0"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Technical-Conversion][33pt]_Mavic_Pro_D-Log_to_Rec709.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Technical-Conversion][33pt]_Mavic_Pro_D-Log_to_Rec709.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 445,
+    "sha256": "da396a709e42"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_Mavic_Pro_D-Log_to_sRGB_Enhanced.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_Mavic_Pro_D-Log_to_sRGB_Enhanced.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 401,
+    "sha256": "d7bbcef4bf7c"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cyberpunk-Magenta][33pt]_U-DJI-DLOG-V1-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cyberpunk-Magenta][33pt]_U-DJI-DLOG-V1-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "9387a11215e5"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cyberpunk-Magenta][33pt]_U-DJI-DLOG-V2-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cyberpunk-Magenta][33pt]_U-DJI-DLOG-V2-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "d5c9238a3ea4"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Technical-Conversion][33pt]_FLog_FGamut_to_FLog_BT.709_33grid_V.1.00.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Technical-Conversion][33pt]_FLog_FGamut_to_FLog_BT.709_33grid_V.1.00.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1017,
+    "sha256": "46dc8a91ba5e"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Technical-Conversion][33pt]_FLog_FGamut_to_WDR_BT.709_33grid_V.1.00.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Technical-Conversion][33pt]_FLog_FGamut_to_WDR_BT.709_33grid_V.1.00.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Technical-Conversion",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 1017,
+    "sha256": "c3a453ca824e"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_U-9990-LTR.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_U-9990-LTR.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "1b90c2cebdac"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_U-9991-LTR.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_U-9991-LTR.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "b91ee70c3905"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_U-9992-LTR.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_U-9992-LTR.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "a168ba188e64"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_U-9993-LTR.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_U-9993-LTR.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "7924d1e22ec5"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][32pt]_U-9994-LTR.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][32pt]_U-9994-LTR.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "e2cb22680b72"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_U-9995-LTR.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_U-9995-LTR.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "7271c45ce280"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][32pt]_U-9996-LTR.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][32pt]_U-9996-LTR.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "b0b5650dcc50"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_U-9997-LTR.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_U-9997-LTR.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "9f332747182a"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_U-9090-RTL.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_U-9090-RTL.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "a2ce13b09aec"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_U-9998-RTL.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_U-9998-RTL.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "c7a2f593d6b6"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_U-9999-RTL.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_U-9999-RTL.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "510268b3670d"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_U-GOPRO-PROTUNE-LTR.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_U-GOPRO-PROTUNE-LTR.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "a77a7d0b2806"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][32pt]_U-PANASONIC-CINE-D-V1-LTR.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][32pt]_U-PANASONIC-CINE-D-V1-LTR.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "7e9602e53463"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][32pt]_U-PANASONIC-CINE-D-V2-LTR.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][32pt]_U-PANASONIC-CINE-D-V2-LTR.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "8875cc341862"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-PANASONIC-V-LOG-HDR-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-PANASONIC-V-LOG-HDR-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "487dacb4f8ac"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-PANASONIC-V-LOG-V1-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-PANASONIC-V-LOG-V1-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "8a415abd822b"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cyberpunk-Magenta][64pt]_U-PANASONIC-V-LOG-V2-BIS-LTR_Corrected_by_Michael_Tivikoff_.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cyberpunk-Magenta][64pt]_U-PANASONIC-V-LOG-V2-BIS-LTR_Corrected_by_Michael_Tivikoff_.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "64x64x64",
+    "mobile_ready": "Desktop Only (65pt)",
+    "size_kb": 7168,
+    "sha256": "be413dea121c"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cool-Cyan-Neon][32pt]_U-PANASONIC-V-LOG-V2-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cool-Cyan-Neon][32pt]_U-PANASONIC-V-LOG-V2-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "e8fce7533bc5"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cyberpunk-Magenta][32pt]_U-PANASONIC-V-LOG-V3-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cyberpunk-Magenta][32pt]_U-PANASONIC-V-LOG-V3-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "5224ad80e4ad"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-PANASONIC-V-LOG-V4-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-PANASONIC-V-LOG-V4-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "be9988f298c6"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-PANASONIC-V-LOG-V5-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-PANASONIC-V-LOG-V5-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "57677591e6be"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cyberpunk-Magenta][33pt]_U-PANASONIC-V-LOG-V6-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cyberpunk-Magenta][33pt]_U-PANASONIC-V-LOG-V6-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "c20722205e86"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-PANASONIC-V-LOG-V7-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-PANASONIC-V-LOG-V7-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "863b782cc737"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-PANASONIC-V-LOG-V8-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-PANASONIC-V-LOG-V8-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "33241c121302"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-PANASONIC-V-LOG-V9-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_U-PANASONIC-V-LOG-V9-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "bfde7b9a35a1"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-REDLOG-V1-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-REDLOG-V1-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "63572a3a1d31"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-REDLOG-V2-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-REDLOG-V2-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "d7bd2ba21771"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-REDLOGFILM-V1-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-REDLOGFILM-V1-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "6881cb5ca2a2"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-REDLOGFILM-V2-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Film-Stock-Emulation][32pt]_U-REDLOGFILM-V2-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Film-Stock-Emulation",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "a6b0dff15cda"
+  },
+  {
+    "filename": "[Apple-Log-2][Cinematic-Balanced][32pt]_U-SONY-S-LOG2-V1-LTR.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cinematic-Balanced][32pt]_U-SONY-S-LOG2-V1-LTR.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "6d95bae557d4"
+  },
+  {
+    "filename": "[Apple-Log-2][Cinematic-Balanced][32pt]_U-SONY-S-LOG2-V2-LTR.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cinematic-Balanced][32pt]_U-SONY-S-LOG2-V2-LTR.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "11a4c63a9476"
+  },
+  {
+    "filename": "[Apple-Log-2][Cinematic-Balanced][32pt]_U-SONY-S-LOG2-V3-LTR.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cinematic-Balanced][32pt]_U-SONY-S-LOG2-V3-LTR.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "fa374d394980"
+  },
+  {
+    "filename": "[Apple-Log-2][Cool-Cyan-Neon][32pt]_U-SONY-S-LOG2-V4-LTR.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cool-Cyan-Neon][32pt]_U-SONY-S-LOG2-V4-LTR.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "e1fe40c32bed"
+  },
+  {
+    "filename": "[Apple-Log-2][Cinematic-Balanced][32pt]_U-SONY-S-LOG2-V5-LTR.cube",
+    "path": "luts/1_Apple_Log_2_iPhone17Pro/[Apple-Log-2][Cinematic-Balanced][32pt]_U-SONY-S-LOG2-V5-LTR.cube",
+    "color_space": "Apple-Log-2",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "5ae0e3122cef"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-SONY-S-LOG3-V1-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-SONY-S-LOG3-V1-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "6426a197fb5c"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-SONY-S-LOG3-V2-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-SONY-S-LOG3-V2-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "af0ae1b9bf21"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cyberpunk-Magenta][32pt]_U-SONY-S-LOG3-V3-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cyberpunk-Magenta][32pt]_U-SONY-S-LOG3-V3-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "ac6f33c661b6"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cool-Cyan-Neon][32pt]_U-SONY-S-LOG3-V4-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cool-Cyan-Neon][32pt]_U-SONY-S-LOG3-V4-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "7d9ee1610f4d"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-SONY-S-LOG3-V5-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-SONY-S-LOG3-V5-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "c07677adfae4"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-SONY-S-LOG3-V6-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-SONY-S-LOG3-V6-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "6c9cedb746cc"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-SONY-S-LOG3-V7-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][32pt]_U-SONY-S-LOG3-V7-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "eb8f6a00260a"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cyberpunk-Magenta][32pt]_U-SONY-S-LOG3-V8-LTR.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cyberpunk-Magenta][32pt]_U-SONY-S-LOG3-V8-LTR.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "75bab78c79c6"
+  },
+  {
+    "filename": "[Rec709-Creative][Cinematic-Balanced][32pt]_U-TECHNICOLOR-CINESTYLE-LTR.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cinematic-Balanced][32pt]_U-TECHNICOLOR-CINESTYLE-LTR.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cinematic-Balanced",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "6f58380cfb0c"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_IWLTBAP_Arapaho_-_V-Log.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_IWLTBAP_Arapaho_-_V-Log.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "e0e953176d09"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cyberpunk-Magenta][32pt]_IWLTBAP_Aspen_-_LOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cyberpunk-Magenta][32pt]_IWLTBAP_Aspen_-_LOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "9c927dfb4797"
+  },
+  {
+    "filename": "[Rec709-Creative][Cyberpunk-Magenta][32pt]_IWLTBAP_Aspen_-_Standard.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cyberpunk-Magenta][32pt]_IWLTBAP_Aspen_-_Standard.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cyberpunk-Magenta",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "1b640db8b8d0"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_IWLTBAP_Aspen_-_V-Log.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_IWLTBAP_Aspen_-_V-Log.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "fcb067163a73"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_IWLTBAP_Humble_-_V-Log.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_IWLTBAP_Humble_-_V-Log.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "102ba43994c0"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cool-Cyan-Neon][32pt]_IWLTBAP_Sedona_-_LOG.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cool-Cyan-Neon][32pt]_IWLTBAP_Sedona_-_LOG.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "5c2694bd8990"
+  },
+  {
+    "filename": "[Rec709-Creative][Cool-Cyan-Neon][32pt]_IWLTBAP_Sedona_-_Standard.cube",
+    "path": "luts/3_Rec709_Creative_Looks/[Rec709-Creative][Cool-Cyan-Neon][32pt]_IWLTBAP_Sedona_-_Standard.cube",
+    "color_space": "Rec709-Creative",
+    "style": "Cool-Cyan-Neon",
+    "grid_size": "32x32x32",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 864,
+    "sha256": "8414b91f44fc"
+  },
+  {
+    "filename": "[Camera-Log-Universal][Cinematic-Balanced][33pt]_IWLTBAP_Sedona_-_V-Log.cube",
+    "path": "luts/4_Camera_Log_and_Film_Print/[Camera-Log-Universal][Cinematic-Balanced][33pt]_IWLTBAP_Sedona_-_V-Log.cube",
+    "color_space": "Camera-Log-Universal",
+    "style": "Cinematic-Balanced",
+    "grid_size": "33x33x33",
+    "mobile_ready": "Yes (iOS Blackmagic Ready)",
+    "size_kb": 947,
+    "sha256": "006815884985"
+  }
+]
